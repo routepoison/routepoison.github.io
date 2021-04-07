@@ -1,8 +1,6 @@
-# Routepoison
+# Welcome
 
-Thanks for stopping by!
-
-## April 7th
+# April 7th
 
 ### Routing Administrative Distances
 

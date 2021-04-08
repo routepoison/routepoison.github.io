@@ -2,10 +2,10 @@
 
 ## Directory
 
-* :file_folder: [Networking](./#)
-    + :open_file_folder: [Administrative Distance](./networking/admin-distances.md)
-* :file_folder: [Programming](./#)
-* :file_folder: [Hacking](./#)
+* 📁 [Networking](./#)
+    + 📂 [Administrative Distance](./networking/admin-distances.md)
+* 📁 [Programming](./#)
+* 📁 [Hacking](./#)
 
 ---
 

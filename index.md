@@ -1,5 +1,25 @@
 # Welcome
 
+## April 8th
+
+```
+# Full Example
+!
+configure terminal
+!
+router ospf 1 vrf VPN01
+!
+network 0.0.0.0 255.255.255.255 area 0
+!
+router ospf 2 vrf VPN02
+!
+network 0.0.0.0 255.255.255.255 area 0
+!
+# VALIDATE
+!
+show vrf
+```
+
 ## April 7th
 
 ### Routing Administrative Distances

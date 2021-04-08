@@ -1,6 +1,6 @@
 # Routing Administrative Distances
 
-## ↩️ [Back to Routepoison.com!](./../index.md)
+↩️ [Back to Routepoison.com!](./../index.md)
 
 | Protocol | Administrative Distance |
 |:--------:|:-----------------------:|
@@ -20,4 +20,4 @@
 
 ---
 
-## ↩️ [Back to Routepoison.com!](./../index.md)
+↩️ [Back to Routepoison.com!](./../index.md)

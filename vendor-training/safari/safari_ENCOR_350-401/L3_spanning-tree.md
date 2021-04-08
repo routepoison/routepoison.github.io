@@ -105,23 +105,23 @@ Blocking ports are identified based on the following logic:
 * Per-VLAN Spanning Tree (PVST)
 * Per-VLAN Spanning Tree Plus (PVST+)
 
-> show spanning-tree
+> __show spanning-tree__
 
 You can also add a VLAN ID:
 
-> show spanning-tree [vlan _vlan-id_]
+> __show spanning-tree__ [__vlan__ _vlan-id_]
 
 You can also get detailed output:
 
-> show spanning-tree detail [vlan _vlan-id_]
+> __show spanning-tree detail__ [__vlan__ _vlan-id_]
 
 You can also review an interface:
 
-> show spanning-tree interface _interface-id_
+> __show spanning-tree interface__ _interface-id_
 
 Detailed interface:
 
-> show spanning-tree interface _interface_ detail [vlan _vlan-id_]
+> __show spanning-tree interface__ _interface_ __detail__ [__vlan__ _vlan-id_]
 
 ## 3.4 STP Convergence
 
@@ -176,9 +176,9 @@ The root bridge should be placed on a core switch that minimizes the number of h
 
 The priority must be between 0 and 61,440 and in increments of 4,096.
 
-> __spanning-tree vlan__ _vlan-id_ __root__ __{primary|secondary}__
+> __spanning-tree vlan__ _vlan-id_ __root {primary|secondary}__
 
-The command __spanning-tree vlan__ _vlan-id_ __root {primary|secondary}__ executes a script. Using the __primary__ keyword sets the priority to 24,576 and the __secondary__ keyword sets the priority to 28,672.
+The command __spanning-tree vlan__ _vlan-id_ __root {primary \|secondary}__ executes a script. Using the __primary__ keyword sets the priority to 24,576 and the __secondary__ keyword sets the priority to 28,672.
 
 Note: If another switch is at a priority of 24,576 and has a lower MAC address, or has a lower priorty than 24,576; the script will change the priority (only at execution) to a value of 4,096 lower than the more preferred switch.
 

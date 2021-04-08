@@ -1,6 +1,6 @@
 # Welcome
 
-<a href ="https://discord.gg/GN4tyGZtfP"><img alt="Join Discord! src="./img/discord-logo-1024x1024.png" width="150" height="70"></a>
+<a href ="https://discord.gg/GN4tyGZtfP"><img src="./img/discord-logo-1024x1024.png" width="150" height="70" alt="Join Discord!></a>
 
 ## Directory
 

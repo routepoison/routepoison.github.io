@@ -4,7 +4,7 @@
 
 <img src="./img/discord-logo-1024x1024.png" height="150" width="150">
 
-## Directory
+## 📓 Directory
 
 * 📁 [Networking](./#)
     + 📄 [Administrative Distance](./networking/admin-distances.md)
@@ -16,7 +16,7 @@
 
 ---
 
-## April 8th
+## 📰 April 8th
 
 Site is now off Google, up, and operational!
 
@@ -24,7 +24,7 @@ Site is now off Google, up, and operational!
 
 ---
 
-## April 7th
+## 📰 April 7th
 
 ### Routing Administrative Distances
 

@@ -1,9 +1,5 @@
 # Welcome
 
-Join the Discord!
-
-![https://discord.gg/K4VU427xmW!](./img/discord-logo-1024x1024.png)
-
 ## Directory
 
 * 📁 [Networking](./#)

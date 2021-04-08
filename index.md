@@ -4,6 +4,9 @@
 
 * 📁 [Networking](./#)
     + 📂 [Administrative Distance](./networking/admin-distances.md)
+    + 📂 [Vendor Training](./vendor-training/README.md)
+        -  📂 [Cisco ENCORE](./vendor-training/safari_ENCOR_350-401/README.md)
+            =  📂 [Spanning Tree](./vendor-training/safari_ENCOR_350-401/L3_spanning-tree.md)
 * 📁 [Programming](./#)
 * 📁 [Hacking](./#)
 

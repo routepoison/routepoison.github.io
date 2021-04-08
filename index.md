@@ -18,23 +18,9 @@
 
 ## April 8th
 
-```
-# Full Example
-!
-configure terminal
-!
-router ospf 1 vrf VPN01
-!
-network 0.0.0.0 255.255.255.255 area 0
-!
-router ospf 2 vrf VPN02
-!
-network 0.0.0.0 255.255.255.255 area 0
-!
-# VALIDATE
-!
-show vrf
-```
+Site is now off Google, up, and operational!
+
+![Bubbles](./img/bubbles.gif)
 
 ---
 

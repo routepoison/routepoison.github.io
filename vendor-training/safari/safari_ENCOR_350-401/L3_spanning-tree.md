@@ -1,6 +1,6 @@
-# Lesson 3: Spanning Tree
+# Lesson 3: Spanning Tree Protocol 🌲
 
-[Back to Routepoison.com!](../../../index.md)
+↩️ [Back to Routepoison.com!](../../../index.md)
 
 ## 3.1 Introduction to Spanning Tree Protocol (STP)
 
@@ -445,4 +445,4 @@ Note: Ensure that the priority for VLAN 2-4094 is set to a lower value than that
 
 ---
 
-[Back to Routepoison.com!](../../../index.md)
+↩️ [Back to Routepoison.com!](../../../index.md)

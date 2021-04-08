@@ -1,6 +1,6 @@
 # Routing Administrative Distances
 
-[Back to Routepoison.com!](./../index.md)
+## ↩️ [Back to Routepoison.com!](./../index.md)
 
 | Protocol | Administrative Distance |
 |:--------:|:-----------------------:|
@@ -17,3 +17,7 @@
 |External EIGRP|170|
 |Internal BGP|200|
 |Unknown|255|
+
+---
+
+## ↩️ [Back to Routepoison.com!](./../index.md)

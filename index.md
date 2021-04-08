@@ -2,13 +2,13 @@
 
 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 
-<img src="./img/discord-logo-1024x1024.png" height="100" width="150">
+<img src="./img/discord-logo-1024x1024.png" height="150" width="150">
 
 ## Directory
 
 * 📁 [Networking](./#)
     + 📂 [Administrative Distance](./networking/admin-distances.md)
-    + 📂 [Vendor Training](./vendor-training/README.md)
+    + 📂 [Vendor Training](./#)
         -  📂 [Cisco ENCORE](./vendor-training/safari/safari_ENCOR_350-401/README.md)
             * 📂 [Spanning Tree](./vendor-training/safari/safari_ENCOR_350-401/L3_spanning-tree.md)
 * 📁 [Programming](./#)

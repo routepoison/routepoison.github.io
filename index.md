@@ -2,6 +2,8 @@
 
 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 
+<img src="./img/discord-logo-1024x1024.png" height="100" width="150">
+
 ## Directory
 
 * 📁 [Networking](./#)

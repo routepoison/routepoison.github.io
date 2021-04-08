@@ -176,7 +176,7 @@ The root bridge should be placed on a core switch that minimizes the number of h
 
 The priority must be between 0 and 61,440 and in increments of 4,096.
 
-> __spanning-tree vlan__ _vlan-id_ __root {primary|secondary}__
+> __spanning-tree vlan__ _vlan-id_ __root {primary \|secondary}__
 
 The command __spanning-tree vlan__ _vlan-id_ __root {primary \|secondary}__ executes a script. Using the __primary__ keyword sets the priority to 24,576 and the __secondary__ keyword sets the priority to 28,672.
 
@@ -378,7 +378,7 @@ The MST topology uses the same logic as RSTP for building the tree except settin
 
 or 
 
-> __spanning-tree mst__ _instance-number_ __root {primary | secondary}__
+> __spanning-tree mst__ _instance-number_ __root {primary \| secondary}__
 
 ### MST Topology Tuning by Port
 

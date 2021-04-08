@@ -1,5 +1,14 @@
 # Welcome
 
+## Directory
+
+* :file_folder: [Networking](./#)
+    + :open_file_folder: [Administrative Distance](./networking/admin-distances.md)
+* :file_folder: [Programming](./#)
+* :file_folder: [Hacking](./#)
+
+---
+
 ## April 8th
 
 ```
@@ -19,6 +28,8 @@ network 0.0.0.0 255.255.255.255 area 0
 !
 show vrf
 ```
+
+---
 
 ## April 7th
 

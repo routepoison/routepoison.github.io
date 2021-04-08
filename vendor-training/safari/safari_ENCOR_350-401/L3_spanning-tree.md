@@ -257,7 +257,7 @@ Blocking, Listening, and Learning before they can forward network traffic.
 
 BPDU Guard can be disabled under specific ports with the command:
 
-> __spanning-tree bpduguard disable
+> __spanning-tree bpduguard disable__
 
 ### BPDU Filter
 

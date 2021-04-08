@@ -7,10 +7,10 @@
 ## Directory
 
 * 📁 [Networking](./#)
-    + 📂 [Administrative Distance](./networking/admin-distances.md)
+    + 📄 [Administrative Distance](./networking/admin-distances.md)
     + 📂 [Vendor Training](./#)
         -  📂 [Cisco ENCORE](./vendor-training/safari/safari_ENCOR_350-401/README.md)
-            * 📂 [Spanning Tree](./vendor-training/safari/safari_ENCOR_350-401/L3_spanning-tree.md)
+            * 📄 [Spanning Tree](./vendor-training/safari/safari_ENCOR_350-401/L3_spanning-tree.md)
 * 📁 [Programming](./#)
 * 📁 [Hacking](./#)
 

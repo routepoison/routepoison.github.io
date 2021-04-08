@@ -114,22 +114,6 @@ You can also get detailed output:
 > show spanning-tree detail [vlan _vlan-id_]
 
 
-## 3.4 STP Convergence
-
-## 3.5 Rapid Spanning Tree Protocol (RSTP)
-
-## 3.6 Tuning the STP Topology
-
-## 3.8 Optimizing the Spanning Tree Topology
-
-## Multiple Spanning Tree Protocool (MSTP)
-
 ---
 
-[Back to main Repo](../../../README.md)
-
-[Back to Safari Books](./../README.md)
-
-[Previous Lesson: Switch Operations](./L2_switch-operations.md)
-
-[Next Lesson: EtherChannel](./L4_Etherchannel.md)
+[Back to main Repo](../../../indexE.md)

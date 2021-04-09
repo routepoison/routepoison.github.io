@@ -1,8 +1,8 @@
-# 📖Lesson 3: Spanning Tree Protocol 🌲
+# 🔖 Lesson 3: Spanning Tree Protocol 🌲
 
 ↩️ [Back to Routepoison.com!](../../../index.md)
 
-## 3.1 Introduction to Spanning Tree Protocol (STP)
+## 📃 3.1 Introduction to Spanning Tree Protocol (STP)
 
 Spanning Tree Protocol (STP) is a Layer 2 protocol with multiple modes:
 
@@ -50,7 +50,7 @@ __Bridge protocol data unit (BPDU)__: STP packets that are used by switches to i
 * __Forwarding__: The switch port can forward all network traffic and can update the MAC address table as expected
 * __Broken__: The switch has detected a configuration problem.
 
-## 3.2 Building STP Topology
+## 📃 3.2 Building STP Topology
 
 The STP Topology is calculated in the following fashion:
 
@@ -93,7 +93,7 @@ Blocking ports are identified based on the following logic:
 3. The system priority of the local switch is compared to the system priority of the remote switch. The local port is moved to a blocking state if the remote system priority is lower than that of the local switch.
 4. The system MAC address of the local switch is compared to the system MAC of the remote switch. The local designated port is moved to a blocking state if the remote system MAC address is lower than that of the local switch.
 
-## 3.3 Per VLAN Spanning Tree (PVST) and PVST+
+## 📃 3.3 Per VLAN Spanning Tree (PVST) and PVST+
 
 ### Limitations of 802.1D
 
@@ -123,7 +123,7 @@ Detailed interface:
 
 > __show spanning-tree interface__ _interface_ __detail__ [__vlan__ _vlan-id_]
 
-## 3.4 STP Convergence
+## 📃 3.4 STP Convergence
 
 ### Timers 
 
@@ -139,7 +139,7 @@ Detailed interface:
 
 > spanning-tree vlan _vland-id_ forward-time _forward-time_
 
-## 3.5 Rapid Spanning Tree Protocol (RSTP)
+## 📃 3.5 Rapid Spanning Tree Protocol (RSTP)
 
 * PVPST and PVST+ were proprietary spanning tree protocols.
 * The concepts in PVST and PVST+ were standardized in the IEEE 802.1W specification, known as Rapid Spanning Tree Protocol (RSTP).
@@ -164,7 +164,7 @@ Detailed interface:
 * __Edge-port__: A port at the edge of the network where hosts connect to the Layer-2 topology with on interface and cannot form a loop. These ports directly correlate to ports that have the STP portfast feature enabled.
 * __Non-Edge port__: A port that has received a BPDU.
 
-## 3.6 Tuning the STP Topology
+## 📃 3.6 Tuning the STP Topology
 
 ### Root Bridge Placement
 
@@ -223,7 +223,7 @@ Note: If another switch is at a priority of 24,576 and has a lower MAC address, 
 
 > spanning-tree guard root
 
-## 3.8 Optimizing the Spanning Tree Topology
+## 📃 3.8 Optimizing the Spanning Tree Topology
 
 ### End User Delays with Spanning
 

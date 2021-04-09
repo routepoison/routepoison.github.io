@@ -10,7 +10,7 @@ This is my personal website and an open-sourced I.T. training repository.
 
 * 📁 [Networking](./#)
     + 📁 [Data Center](./#)
-        - 📜 [vPC Technology Configuration](./data-center/NX-OS_vPC.md)
+        - 📜 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md)
     + 📁 [Routing](./#)
         - 📄 [Administrative Distance](./networking/admin-distances.md)
     + 📁 [Security](./#)

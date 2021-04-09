@@ -22,4 +22,4 @@
 
 ---
 
-↩️ [Back to Routepoison.com!](./../index.md)
+↩️ [Back to Routepoison.com!](../../index.md)

@@ -23,4 +23,4 @@ no capture pc-traffic interface INSIDE
 
 ---
 
-↩️ [Back to Routepoison.com!](./../index.md)
+↩️ [Back to Routepoison.com!](../../index.md)

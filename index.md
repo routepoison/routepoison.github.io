@@ -18,7 +18,7 @@ This is my personal website and an open-sourced I.T. training repository.
 
 ---
 
-## 📰 April 8th
+## 📆 April 8th
 
 Site is now off Google, up, and operational!
 
@@ -26,7 +26,7 @@ Site is now off Google, up, and operational!
 
 ---
 
-## 📰 April 7th
+## 📆 April 7th
 
 ### Routing Administrative Distances
 
@@ -45,6 +45,21 @@ Site is now off Google, up, and operational!
 |External EIGRP|170|
 |Internal BGP|200|
 |Unknown|255|
+
+## Emoji Legend
+
+| Emoji | Definition/Purpose |
+|:-:|:-:|
+|🔖|Lesson Topic|
+|📃|Lesson Subtopic|
+|↩️|Return back a page|
+|✉️|E-Mail|
+|📰|Daily Entry|
+|📅|Daily Entry|
+|📆|Daily Entry|
+|📁|Website Directory|
+|📂|Current Website Directory| 
+|🔗| URL|
 
 ---
 

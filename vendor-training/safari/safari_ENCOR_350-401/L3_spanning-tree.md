@@ -1,4 +1,4 @@
-# Lesson 3: Spanning Tree Protocol 🌲
+# 📖 Lesson 3: Spanning Tree Protocol 🌲
 
 ↩️ [Back to Routepoison.com!](../../../index.md)
 

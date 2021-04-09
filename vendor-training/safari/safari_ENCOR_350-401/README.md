@@ -1,9 +1,13 @@
-# CCNP and CCIE Enterprise Core 350-401
+# Safari Training
 
-## ENCOR Table of Contents
+## Safari Table of Contents
 
-* [Lesson 3: Spanning Tree](./L3_spanning-tree.md)
+## Cisco 
+
+* ✏️ [CCNP ENCOR 350-401](./safari_ENCOR_350-401/README.md)
+* ✏️ [CCNP ENARSI 300-410](./safari_ENSARI_300-410/README.md)
+* 📔 [CCNP ENCOR & ENARSI Portable Handbook](./safari_Portable-ENCOR-ENSARI/README.md)
 
 ---
 
-[Back to Main Repo](./../../../index.md)
+↩️ [Back to Routepoison.com!](./../../index.md)

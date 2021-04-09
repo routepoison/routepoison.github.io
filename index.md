@@ -54,9 +54,9 @@ Site is now off Google, up, and operational!
 |📃|Lesson Subtopic|
 |↩️|Return back a page|
 |✉️|E-Mail|
-|📰|Daily Entry|
-|📅|Daily Entry|
 |📆|Daily Entry|
+|📰|Daily Entry 2|
+|📅|Daily Entry 3|
 |📁|Website Directory|
 |📂|Current Website Directory| 
 |🔗| URL|

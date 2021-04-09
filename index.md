@@ -11,7 +11,7 @@ This is my personal website and an open-sourced I.T. training repository.
 * 📁 [Networking](./#)
     + 📄 [Administrative Distance](./networking/admin-distances.md)
     + 📂 [Vendor Training](./#)
-        -  📂 [Cisco ENCORE](./vendor-training/safari/safari_ENCOR_350-401/README.md)
+        -  📂 [Cisco Enterprise CCNP](./vendor-training/safari/README.md)
             * 📄 [Spanning Tree](./vendor-training/safari/safari_ENCOR_350-401/L3_spanning-tree.md)
 * 📁 [Programming](./#)
 * 📁 [Hacking](./#)

@@ -1,9 +1,5 @@
 # Nexus NX-OS vPC Configuration Script
 
-↩️ [Back to Routepoison.com!](./../index.md)
-
----
-
 ```
 ############################
 ## vPC Peer Configuration
@@ -104,3 +100,7 @@ vpc domain 1
 #  track 2
   ip arp synchronize
 ```
+
+---
+
+↩️ [Back to Routepoison.com!](./../index.md)

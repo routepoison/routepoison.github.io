@@ -14,6 +14,9 @@ This is my personal website and an open-sourced I.T. training repository.
     + 📁 [Routing](./#)
         - 📄 [Administrative Distance](./networking/admin-distances.md)
     + 📁 [Security](./#)
+        - 📜 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
+        - 📜 [Cisco ASA Packet-Tracer & Captures](./networking/firewall/asa-packet-tracer_capture.md)
+        - 📜 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
     + 📁 [Switching](./#)
     + 📁 [TCP/IP](./#)
     + 📁 [Vendor Training](./#)
@@ -36,6 +39,7 @@ Site is now off Google, up, and operational!
 
 | Emoji | Definition/Purpose |
 |:-:|:-:|
+|🔥|Firewall|
 |🔖|Lesson Topic|
 |📃|Lesson Subtopic|
 |📄|Publication|

@@ -1,5 +1,9 @@
 # Nexus NX-OS vPC Configuration Script
 
+↩️ [Back to Routepoison.com!](../../index.md)
+
+---
+
 ```
 ############################
 ## vPC Peer Configuration
@@ -103,4 +107,4 @@ vpc domain 1
 
 ---
 
-↩️ [Back to Routepoison.com!](./../index.md)
+↩️ [Back to Routepoison.com!](../../index.md)

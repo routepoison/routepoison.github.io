@@ -88,7 +88,7 @@ Site is now off Google, up, and operational!
 
 ---
 
-<script type="text/javascript" src="//counter.websiteout.net/js/36/0/1000/0"></script>
+<script type="text/javascript" src="//counter.websiteout.net/js/5/0/1000/0"></script>
 
 ---
 

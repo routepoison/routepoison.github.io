@@ -135,7 +135,7 @@ Site is now off Google, up, and operational!
 
 Thanks for stopping by visitor #: <script type="text/javascript" src="//counter.websiteout.net/js/5/0/1000/0"></script>
 
-🔧: [Github @routepoison](https://github.com/routepoison)
-📸: [Instagram: @theproxyrunner](https://www.instagram.com/theproxyrunner/)
-🐦: [Twitter: @proxy_runner](https://twitter.com/proxy_runner)
-✉️ <a href="mailto:routepoison@protonmail.com">Send me an email</a>
+🔧: [Github @routepoison](https://github.com/routepoison)<br>
+📸: [Instagram: @theproxyrunner](https://www.instagram.com/theproxyrunner/)<br>
+🐦: [Twitter: @proxy_runner](https://twitter.com/proxy_runner)<br>
+✉️ <a href="mailto:routepoison@protonmail.com">Send me an email</a><br>

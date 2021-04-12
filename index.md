@@ -2,7 +2,7 @@
 
 &nbsp;<a href="https://github.com/routepoison"><img src="https://badgen.net/badge/github/routepoison/green?icon=github"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/personal-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/academic-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/professional-website/routepoison/green"></a>&nbsp;
 
-This is my personal website and an open-sourced I.T. training repository.
+This is my personal website and an open sourced I.T. training repository.
 
 🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 

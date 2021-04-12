@@ -1,5 +1,7 @@
 # Welcome to RoutePoison.com
 
+&nbsp;<a href="https://github.com/routepoison"><img src="https://badgen.net/badge/github/routepoison/green?icon=github"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/personal-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/academic-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/professional-website/routepoison/green"></a>&nbsp;
+
 This is my personal website and an open-sourced I.T. training repository.
 
 🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
@@ -133,4 +135,7 @@ Site is now off Google, up, and operational!
 
 Thanks for stopping by visitor #: <script type="text/javascript" src="//counter.websiteout.net/js/5/0/1000/0"></script>
 
+🔧: [Github @routepoison](https://github.com/routepoison)
+📸: [Instagram: @theproxyrunner](https://www.instagram.com/theproxyrunner/)
+🐦: [Twitter: @proxy_runner](https://twitter.com/proxy_runner)
 ✉️ <a href="mailto:routepoison@protonmail.com">Send me an email</a>

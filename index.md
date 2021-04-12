@@ -8,6 +8,8 @@ This is my personal website and an open-sourced I.T. training repository.
 
 ## 📓 Directory
 
+* 📁 [Cryptocurrency](./#)
+* 📁 [Hacking](./#)
 * 📁 [Networking](./#)
     + 📁 [Data Center](./#)
         -  📜 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md)
@@ -32,13 +34,13 @@ This is my personal website and an open-sourced I.T. training repository.
         -  📁 [Cisco Data Center CCNP](./#)
         -  📁 [Cisco Data Center CCIE](./#)
 * 📁 [Programming](./#)
-* 📁 [Hacking](./#)
+
 
 ---
 
 ## 📆 April 10th
 
-### RFC1918, Subnets, and Wildcard Masks
+### 🔗 RFC1918, Subnets, and Wildcard Masks
 
 | RFC1918 | IP Address Range | Number of Addresses | Classful Description | Largest CIRD Block | Host ID Size|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -46,7 +48,7 @@ This is my personal website and an open-sourced I.T. training repository.
 | 20-bit block | 172.16.0.0 - 172.31.255.255 | 1,048,576 | 16 Contiguous Class Bs | 172.16.0.0/12 (255.240.0.0) | 20 bits|
 | 16-bit block | 192.168.0.0 - 192.168.255.255 | 65,536 | 256 contiguous class Cs | 192.168.0.0/16 (255.255.0.0) | 16 bits |
 
-### Subnet/Wildcard Mask Table
+### 🔗 Subnet/Wildcard Mask Table
 
 | /Slash | Number of Hosts | Subnet Mask/Netmask | Wildcard Mask |
 |:-:|:-:|:-:|:-:|
@@ -78,7 +80,7 @@ This is my personal website and an open-sourced I.T. training repository.
 
 ## 📆 April 10th
 
-### IPSec Authentication Header Format
+### 🔗 IPSec Authentication Header Format
 
 ```
     0                   1                   2                   3
@@ -106,7 +108,7 @@ Site is now off Google, up, and operational!
 
 ---
 
-## Emoji Legend
+## 🔗 Emoji Legend
 
 | Emoji | Definition/Purpose |
 |:-:|:-:|

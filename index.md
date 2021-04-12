@@ -88,8 +88,6 @@ Site is now off Google, up, and operational!
 
 ---
 
-<script type="text/javascript" src="//counter.websiteout.net/js/5/0/1000/0"></script>
-
----
+Thanks for stopping by visitor #: <script type="text/javascript" src="//counter.websiteout.net/js/5/0/1000/0"></script>!
 
 ✉️ <a href="mailto:routepoison@protonmail.com">Send me an email</a>

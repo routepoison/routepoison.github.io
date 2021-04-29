@@ -17,6 +17,7 @@ This is my personal website and an open sourced I.T. training repository.
         -  📜 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md)
     + 📁 [Routing](./#)
         -  📄 [Administrative Distance](./networking/routing/admin-distances.md)
+        -  📄 [RFC1918 Prefix-List](./networking/routing/prefix-list.md)
         -  📄 [Subnet Mask Table](./index.md#subnetwildcard-mask-table)
     + 📁 [Security](./#)
         -  📜 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
@@ -39,6 +40,20 @@ This is my personal website and an open sourced I.T. training repository.
 
 
 ---
+
+## 📆 April 28th
+
+Quick and dirty router configuration to filter RFC1918 IP address space:
+
+```
+ip prefix-list RFC1918 seq 5 permit 192.168.0.0/12 ge 32
+ip prefix-list RFC1918 seq 10 deny 0.0.0.0/0 ge 32
+ip prefix-list RFC1918 seq 15 permit 10.0.0.0/7 ge 8
+ip prefix-list RFC1918 seq 20 permit 172.16.0.0/11 ge 12
+ip prefix-list RFC1918 seq 25 permit 192.168.0.0/15 ge 16
+```
+
+This is [archived here](./networking/routing/prefix-list.md).
 
 ## 📆 April 10th
 

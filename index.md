@@ -12,7 +12,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 * 📁 [Antiquated Exams](./#)
     + 📁 [Antiquated Exams](./archive/README.md)
-        - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI_CCNP-642-901.md)
+        - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI642-901/BSCI_CCNP-642-901.md)
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
 * 📁 [Networking](./#)

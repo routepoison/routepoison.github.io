@@ -10,19 +10,22 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 📓 Directory
 
+* 📁 [Antiquated Exams](./#)
+    + 📁 [Antiquated Exams](./archive/README.md)
+        - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI_CCNP-642-901.md)
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
 * 📁 [Networking](./#)
     + 📁 [Data Center](./#)
-        -  📜 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md)
+        -  📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
     + 📁 [Routing](./#)
         -  📄 [Administrative Distance](./networking/routing/admin-distances.md)
         -  📄 [RFC1918 Prefix-List](./networking/routing/prefix-list.md)
         -  📄 [Subnet Mask Table](./index.md#subnetwildcard-mask-table)
     + 📁 [Security](./#)
-        -  📜 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
-        -  📜 [Cisco ASA Packet-Tracer & Captures](./networking/firewall/asa-packet-tracer_capture.md)
-        -  📜 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
+        -  📋 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
+        -  📋 [Cisco ASA Packet-Tracer & Captures](./networking/firewall/asa-packet-tracer_capture.md)
+        -  📋 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
     + 📁 [Switching](./#)
     + 📁 [TCP/IP](./#)
     + 📁 [Vendor Training](./#)

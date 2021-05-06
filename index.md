@@ -8,6 +8,12 @@ This is my personal website and an open sourced I.T. training repository.
 
 <img src="./img/discord-logo-1024x1024.png" height="150" width="150">
 
+## 🌎 Internet
+
+* [BGP Stream](http://bgpstream.com/)
+* [BGP Advanced Internet Resources](https://www.bgp4.as/)
+* [RFC Archive](https://www.rfc-archive.org/)
+
 ## 📓 Directory
 
 * 📁 [Antiquated Exams](./#)

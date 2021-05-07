@@ -8,17 +8,8 @@ This is my personal website and an open sourced I.T. training repository.
 
 <img src="./img/discord-logo-1024x1024.png" height="150" width="150">
 
-## 🌎 Internet
-
-* [BGP Stream](http://bgpstream.com/)
-* [BGP Advanced Internet Resources](https://www.bgp4.as/)
-* [RFC Archive](https://www.rfc-archive.org/)
-
 ## 📓 Directory
 
-* 📁 [Antiquated Exams](./#)
-    + 📁 [Antiquated Exams](./archive/README.md)
-        - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI642-901/BSCI_CCNP-642-901.md)
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
 * 📁 [Networking](./#)
@@ -34,10 +25,19 @@ This is my personal website and an open sourced I.T. training repository.
         -  📋 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
     + 📁 [Switching](./#)
     + 📁 [TCP/IP](./#)
-    + 📁 [Vendor Training](./#)
+
+* 📁 [Programming](./#)
+
+### 📓 Certification Testing
+
+* 📁 [Antiquated Exams](./#)
+    + 📁 [Antiquated Exams](./archive/README.md)
+        - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI642-901/BSCI_CCNP-642-901.md)
+    + 📁 [Cisco Training](./#)
         -  📁 [Cisco Enterprise CCNA](./#)
-        -  📁 [Cisco Enterprise CCNP](./vendor-training/safari/README.md)
+        -  📁 [Cisco ENCORE CCNP](./vendor-training/safari/README.md)
             * 📄 [Spanning Tree](./vendor-training/safari/safari_ENCOR_350-401/L3_spanning-tree.md)
+        -  📁 [Cisco ENARSI CCNP](./vendor-training/safari/README.md)
         -  📁 [Cisco Enterprise CCIE](./vendor-training/safari/README.md)
         -  📁 [Cisco Security CCNA](./#)
         -  📁 [Cisco Security CCNP](./#)
@@ -45,10 +45,18 @@ This is my personal website and an open sourced I.T. training repository.
         -  📁 [Cisco Data Center CCNA](./#)
         -  📁 [Cisco Data Center CCNP](./#)
         -  📁 [Cisco Data Center CCIE](./#)
-* 📁 [Programming](./#)
 
+### 🌎 Internet
+
+* [BGP Stream](http://bgpstream.com/)
+* [BGP Advanced Internet Resources](https://www.bgp4.as/)
+* [RFC Archive](https://www.rfc-archive.org/)
 
 ---
+
+## 📆 May 7th
+
+Restructuring in progress
 
 ## 📆 April 28th
 

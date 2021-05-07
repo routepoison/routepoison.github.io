@@ -8,7 +8,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 <img src="./img/discord-logo-1024x1024.png" height="150" width="150">
 
-## 📓 Directory
+## 🗄 Directory
 
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
@@ -28,7 +28,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 * 📁 [Programming](./#)
 
-### 📓 Certification Testing
+## 📓 Certification Testing
 
 * 📁 [Antiquated Exams](./#)
     + 📁 [Antiquated Exams](./archive/README.md)

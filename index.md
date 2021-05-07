@@ -46,11 +46,13 @@ This is my personal website and an open sourced I.T. training repository.
         -  📁 [Cisco Data Center CCNP](./#)
         -  📁 [Cisco Data Center CCIE](./#)
 
-### 🌎 Internet
+## 🌎 Internet
 
 * [BGP Stream](http://bgpstream.com/)
 * [BGP Advanced Internet Resources](https://www.bgp4.as/)
 * [RFC Archive](https://www.rfc-archive.org/)
+
+## 🛠 Resources
 
 ---
 

@@ -172,4 +172,4 @@ Thanks for stopping by visitor #: <script type="text/javascript" src="//counter.
 🔧: [Github @routepoison](https://github.com/routepoison)<br>
 📸: [Instagram: @theproxyrunner](https://www.instagram.com/theproxyrunner/)<br>
 🐦: [Twitter: @proxy_runner](https://twitter.com/proxy_runner)<br>
-✉️ <a href="mailto:routepoison@protonmail.com">Send me an email</a><br>
+✉️ <a href="mailto:gs@routepoison.com">Send me an email</a><br>

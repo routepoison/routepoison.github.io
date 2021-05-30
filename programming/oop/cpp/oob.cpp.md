@@ -1,10 +1,14 @@
 # Object Oriented Programming for C++
 
-![W3 Schools](https://www.w3schools.com/cpp/cpp_oop.asp)
+[W3 Schools](https://www.w3schools.com/cpp/cpp_oop.asp)
 
 OOP stands for Object-Oriented Programming.
 
 Procedural programming is about writing procedures or fuctions that perform operations on the the data, while object-oriented programming is about creating objects that contain both data and functions.
+
+## Directory
+
+* 
 
 ## Advantages of OOP
 
@@ -56,3 +60,19 @@ class MyClass {       // The class
 
 ## Create an Object
 
+In C++, an object is created from a class, and since we've just created a class, we can use it to create an object.
+
+```cpp
+int main() {
+  MyClass myObj;  // Create an object of MyClass
+
+  // Access attributes and set values
+  myObj.myNum = 15; 
+  myObj.myString = "Some text";
+
+  // Print attribute values
+  cout << myObj.myNum << "\n";
+  cout << myObj.myString;
+  return 0;
+}
+```

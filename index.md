@@ -10,8 +10,6 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🗄 Directory
 
-* 📁 [Cryptocurrency](./#)
-* 📁 [Hacking](./#)
 * 📁 [Networking](./#)
     + 📁 [Data Center](./#)
         -  📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
@@ -54,7 +52,18 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🛠 Resources
 
+## Programming
+
+* 📁 [Cryptocurrency](./#)
+* 📁 [Hacking](./#)
+* 📁 [Programming](./programming/)
+    + 📁 [C++](./programming/cpp/cpp-crash-cource/toc.md)
+    
 ---
+
+## 📆 June 4th
+
+Start programmingsectio
 
 ## 📆 May 7th
 

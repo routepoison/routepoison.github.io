@@ -55,7 +55,7 @@ This is my personal website and an open sourced I.T. training repository.
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
 * 📁 [Programming](./programming/)
-    + 📁 [C++](./programming/cpp/cpp-crash-cource/toc.md)
+    + 📁 [C++](./programming/cpp/cpp-crash-course/toc.md)
 
 ---
 

@@ -50,26 +50,26 @@ This is my personal website and an open sourced I.T. training repository.
 * [BGP Advanced Internet Resources](https://www.bgp4.as/)
 * [RFC Archive](https://www.rfc-archive.org/)
 
-## 🛠 Resources
-
 ## Programming
 
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
 * 📁 [Programming](./programming/)
     + 📁 [C++](./programming/cpp/cpp-crash-cource/toc.md)
-    
+
 ---
 
-## 📆 June 4th
+## Calendar Updates
+
+### 📆 June 4th
 
 Start programmingsectio
 
-## 📆 May 7th
+### 📆 May 7th
 
 Restructuring in progress
 
-## 📆 April 28th
+### 📆 April 28th
 
 Quick and dirty router configuration to filter RFC1918 IP address space:
 
@@ -83,9 +83,9 @@ ip prefix-list RFC1918 seq 25 permit 192.168.0.0/15 ge 16
 
 This is [archived here](./networking/routing/prefix-list.md).
 
-## 📆 April 10th
+### 📆 April 10th
 
-### 🔗 RFC1918, Subnets, and Wildcard Masks
+#### 🔗 RFC1918, Subnets, and Wildcard Masks
 
 | RFC1918 | IP Address Range | Number of Addresses | Classful Description | Largest CIRD Block | Host ID Size|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -93,7 +93,7 @@ This is [archived here](./networking/routing/prefix-list.md).
 | 20-bit block | 172.16.0.0 - 172.31.255.255 | 1,048,576 | 16 Contiguous Class Bs | 172.16.0.0/12 (255.240.0.0) | 20 bits|
 | 16-bit block | 192.168.0.0 - 192.168.255.255 | 65,536 | 256 contiguous class Cs | 192.168.0.0/16 (255.255.0.0) | 16 bits |
 
-### 🔗 Subnet/Wildcard Mask Table
+#### 🔗 Subnet/Wildcard Mask Table
 
 | /Slash | Number of Hosts | Subnet Mask/Netmask | Wildcard Mask |
 |:-:|:-:|:-:|:-:|
@@ -123,9 +123,9 @@ This is [archived here](./networking/routing/prefix-list.md).
 
 ---
 
-## 📆 April 10th
+### 📆 April 10th
 
-### 🔗 IPSec Authentication Header Format
+#### 🔗 IPSec Authentication Header Format
 
 ```
     0                   1                   2                   3
@@ -145,13 +145,17 @@ This is [archived here](./networking/routing/prefix-list.md).
 
 ---
 
-## 📆 April 8th
+### 📆 April 8th
 
 Site is now off Google, up, and operational!
 
 ![Bubbles](./img/bubbles.gif)
 
 ---
+
+## 🛠 Resources
+
+*
 
 ## 🔗 Emoji Legend
 

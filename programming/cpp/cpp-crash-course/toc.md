@@ -1,10 +1,13 @@
 # C++ Crash Course
 
+> /Users/grs-dev/Doc
+],klp;uments/GitHub/routepoison.github.io/programming/cpp/cpp-crash-course
+
 ##  Book Cover
 
-![Front](../../../img/cppcrash_front.png)
+![Front](./cppcrash_front.png)
 
-![Back](../../../img/cppcrash_back.png)
+![Back](./cppcrash_back.png)
 
 ## Table of Contents
 

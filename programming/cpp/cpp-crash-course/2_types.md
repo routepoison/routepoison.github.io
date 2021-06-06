@@ -60,4 +60,15 @@ rather than:
 
 Table 2-1: Integer Types, Sizes, and Format Specifiers
 
-![Interge Types, Sizes, Formats](./2-1.png)
+![Integer Types, Sizes, Formats](./2-1.png)
+
+Notice integer type sizes vary across platforms: 64-bit Windows and Linux/Mac have different for _long_ integer (4 and 8).
+
+Compilers will warn you of a mismatch between format specifier and integer type. But you must ensure that the format specifiers are correct hwne you're using them in _printf_ statements.
+
+#### Note
+
+> If you want to enforce guaranteed integer sizes, 
+> you can use integer types in the <cstdint> library. 
+ 
+ For example, if you need a signed integer with exactly 8, 16, 32, or 64 bits, you could use int8_t, int16_t, int32_t, or int64_t. You’ll find options for the fastest, smallest, maximum, signed, and unsigned integer types to meet your requirements. But because this header is not always available in every platform, you should only use cstdint types when there is no other alternative.

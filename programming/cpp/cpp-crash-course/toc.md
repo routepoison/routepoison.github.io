@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Chapter 2: Types](./2_types.md)
+* [Chapter 2: Types](./2_types.md   )
 
 ## Quick References
 

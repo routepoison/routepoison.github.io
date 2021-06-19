@@ -51,6 +51,10 @@ This is my personal website and an open sourced I.T. training repository.
 * 📁 [Programming](./programming/)
     + 📁 [C++](./programming/cpp/cpp-crash-course/toc.md)
 
+## 🛠 Resources
+
+*
+
 ---
 
 ## Calendar Updates
@@ -151,10 +155,6 @@ Site is now off Google, up, and operational!
 ![Bubbles](./img/bubbles.gif)
 
 ---
-
-## 🛠 Resources
-
-*
 
 ## 🔗 Emoji Legend
 

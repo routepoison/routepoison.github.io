@@ -14,7 +14,7 @@ This is my personal website and an open sourced I.T. training repository.
     + 📁 [Data Center](./#)
         - 📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
     + 📁 [DMVPN](./#)
-        - 📋 (./networking/dmvpn/phase1.md)
+        - 📋 [DMVPN Phase I](./networking/dmvpn/phase1.md)
     + 📁 [Routing](./#)
         - 📄 [Administrative Distance](./networking/routing/admin-distances.md)
         - 📄 [RFC1918 Prefix-List](./networking/routing/prefix-list.md)
@@ -34,9 +34,9 @@ This is my personal website and an open sourced I.T. training repository.
     + 📁 [Antiquated Exams](./archive/README.md)
         - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI642-901/BSCI_CCNP-642-901.md)
     + 📁 [Cisco Training](./#)
-        -  📁 [Cisco Enterprise CCNA](./#)
-        -  📁 [Cisco CCNP](./vendor-training/safari/README.md)
-        -  📁 [Cisco CCIE](./vendor-training/safari/README.md)
+        -  📁 [Cisco CCNA](./certifications/README.md)
+        -  📁 [Cisco CCNP](./certifications/README.md)
+        -  📁 [Cisco CCIE](./certifications/README.md)
 
 ## 🌎 Internet
 

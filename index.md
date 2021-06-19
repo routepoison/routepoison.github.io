@@ -12,15 +12,17 @@ This is my personal website and an open sourced I.T. training repository.
 
 * 📁 [Networking](./#)
     + 📁 [Data Center](./#)
-        -  📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
+        - 📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
+    + 📁 [DMVPN](./#)
+        - 📋 (./networking/dmvpn/phase1.md)
     + 📁 [Routing](./#)
-        -  📄 [Administrative Distance](./networking/routing/admin-distances.md)
-        -  📄 [RFC1918 Prefix-List](./networking/routing/prefix-list.md)
-        -  📄 [Subnet Mask Table](./index.md#subnetwildcard-mask-table)
+        - 📄 [Administrative Distance](./networking/routing/admin-distances.md)
+        - 📄 [RFC1918 Prefix-List](./networking/routing/prefix-list.md)
+        - 📄 [Subnet Mask Table](./index.md#subnetwildcard-mask-table)
     + 📁 [Security](./#)
-        -  📋 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
-        -  📋 [Cisco ASA Packet-Tracer & Captures](./networking/firewall/asa-packet-tracer_capture.md)
-        -  📋 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
+        - 📋 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
+        - 📋 [Cisco ASA Packet-Tracer & Captures](./networking/firewall/asa-packet-tracer_capture.md)
+        - 📋 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
     + 📁 [Switching](./#)
     + 📁 [TCP/IP](./#)
 
@@ -33,16 +35,8 @@ This is my personal website and an open sourced I.T. training repository.
         - 📜 [BSCI 642-901](./archive/antiquated-exams/BSCI642-901/BSCI_CCNP-642-901.md)
     + 📁 [Cisco Training](./#)
         -  📁 [Cisco Enterprise CCNA](./#)
-        -  📁 [Cisco ENCORE CCNP](./vendor-training/safari/README.md)
-            * 📄 [Spanning Tree](./vendor-training/safari/safari_ENCOR_350-401/L3_spanning-tree.md)
-        -  📁 [Cisco ENARSI CCNP](./vendor-training/safari/README.md)
-        -  📁 [Cisco Enterprise CCIE](./vendor-training/safari/README.md)
-        -  📁 [Cisco Security CCNA](./#)
-        -  📁 [Cisco Security CCNP](./#)
-        -  📁 [Cisco Security CCIE](./#)
-        -  📁 [Cisco Data Center CCNA](./#)
-        -  📁 [Cisco Data Center CCNP](./#)
-        -  📁 [Cisco Data Center CCIE](./#)
+        -  📁 [Cisco CCNP](./vendor-training/safari/README.md)
+        -  📁 [Cisco CCIE](./vendor-training/safari/README.md)
 
 ## 🌎 Internet
 
@@ -63,7 +57,12 @@ This is my personal website and an open sourced I.T. training repository.
 
 ### 📆 June 4th
 
-Start programmingsectio
+Alrighty then, it's been a while - I get a bit busy with work and what not (who doesn't). However! I do have some new content and I've been grinding hard so I'm just about ready to start advertising my content.
+
+
+### 📆 June 4th
+
+Start programming section amongst other updates.
 
 ### 📆 May 7th
 

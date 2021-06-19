@@ -160,22 +160,14 @@ Site is now off Google, up, and operational!
 
 | Emoji | Definition/Purpose |
 |:-:|:-:|
-|🔥|Firewall|
-|🔖|Lesson Topic|
-|📃|Lesson Subtopic|
-|📄|Publication|
-|📜|Script|
-|↩️|Return back a page|
-|✉️|E-Mail|
-|📆|Daily Entry|
-|📰|Daily Entry 2|
-|📅|Daily Entry 3|
-|📁|Website Directory|
-|📂|Current Website Directory| 
-|🔗| URL|
-|🟢| Available|
-|🟡|Under Maintenance|
-|🔴|Unavailable|
+|🔥|Firewall|📆|Daily Entry|
+|🔖|Lesson Topic|📰|Daily Entry 2|
+|📃|Lesson Subtopic|📅|Daily Entry 3|
+|📄|Publication|📁|Website Directory|
+|📜|Script|📂|Current Website Directory| 
+|↩️|Return back a page|🟢| Available|
+|✉️|E-Mail|🟡|Under Maintenance|
+|🔗| URL|🔴|Unavailable|
 
 ---
 

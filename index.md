@@ -19,6 +19,7 @@ This is my personal website and an open sourced I.T. training repository.
         - 📄 [Administrative Distance](./networking/routing/admin-distances.md)
         - 📄 [RFC1918 Prefix-List](./networking/routing/prefix-list.md)
         - 📄 [Subnet Mask Table](./index.md#subnetwildcard-mask-table)
+        - 📄 [VRF](./networking/routing/vrf.index)
     + 📁 [Security](./#)
         - 📋 [Cisco ASA Failover Configuration](./networking/firewall/asa-failover.md)
         - 📋 [Cisco ASA Packet-Tracer & Captures](./networking/firewall/asa-packet-tracer_capture.md)

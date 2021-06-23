@@ -25,6 +25,6 @@ The alternative approached, addressed in second and third recipes we review, is 
 
 TCP port scanning is much more common. These techniques includeL stealth scannig, connect scanning, and zombie scanning. Before diving into these techniques, it's important to understand how TCP connections are established and maintained. TCP is connection-oriented and data is only transferered after a connection has been established between two systems. This process associated with establishing with TCP connections is called the __three-way handshake__.
 
-![3-Way Handshake](./3way-handshake.png)
+![3-Way Handshake](./3way-handshake.PNG)
 
 ---

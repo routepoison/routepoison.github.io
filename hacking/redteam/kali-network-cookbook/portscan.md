@@ -1,6 +1,6 @@
 # Port Scanning
 
-## Introduction to Port 
+## Introduction to Port Scanning
 
 Open ports on a target system is an important step to defining the attack surface of a target. Open ports correspond to the networked services that are running on a system.
 
@@ -45,19 +45,15 @@ Since no final __ACK__ is sent from the initiating system, the connection is lef
 
 Zombie scanning is too map open ports on a remote system without producing any evidence that you have interacted with that system. The principles behind zombie scanning are somewhat complex:
 
-1. Identify a remote system for your zombie. This system requires the following characteristics:
-
-- [ ] It is idle and does not communicate actively with other systems on the network
-- [ ] It uses an incremental IPID sequence
-
-2. Send a SYN+ACK packet to this zombie host and record the initial IPID value.
-3. Send a SYN packed with the spoofed source IP address of the zombie system to the scan target system.
-4. Depending on the status of the port on the scan target, one of the following two things will happen:
-
-- [ ] If the port is open, the scan target will return a SYN+ACK packet to the zombie host, which it believes sent the original SYN request. In this case, the zombie host will respond to this unsolicited SYN+ACK packet with an RST packet and thereby increment its IPID value by one.
-- [ ] If the port is closed, the scan target will return an RST response to the zombie host, which it believes sent the original SYN request. This RST packet will solicit no response from the zombie, and the IPID will not be incremented. 
-
-2. Send another SYN+ACK packet to the zombie host, and evaluate the final IPID value of the returned RST response. If this value has incremented by one, then the port on the scan target is closed, and if the value has incremented by two, then the port on the scan target is open.
+* Identify a remote system for your zombie. This system requires the following characteristics:
+    -[ ] It is idle and does not communicate actively with other systems on the network
+    - [ ] It uses an incremental IPID sequence
+* Send a SYN+ACK packet to this zombie host and record the initial IPID value.
+* Send a SYN packed with the spoofed source IP address of the zombie system to the scan target system.
+* Depending on the status of the port on the scan target, one of the following two things will happen:
+    - [ ] If the port is open, the scan target will return a SYN+ACK packet to the zombie host, which it believes sent the original SYN request. In this case, the zombie host will respond to this unsolicited SYN+ACK packet with an RST packet and thereby increment its IPID value by one.
+    - [ ] If the port is closed, the scan target will return an RST response to the zombie host, which it believes sent the original SYN request. This RST packet will solicit no response from the zombie, and the IPID will not be incremented. 
+*  Send another SYN+ACK packet to the zombie host, and evaluate the final IPID value of the returned RST response. If this value has incremented by one, then the port on the scan target is closed, and if the value has incremented by two, then the port on the scan target is open.
 
 ### Zombie Scan Diagram
 

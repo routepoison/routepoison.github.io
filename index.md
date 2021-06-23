@@ -10,7 +10,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🗄 Directory
 
-* 📁 [Networking](./#)
+ 📁 [Networking](./#)
     + 📁 [Data Center](./#)
         - 📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
     + 📁 [DMVPN](./#)
@@ -26,8 +26,6 @@ This is my personal website and an open sourced I.T. training repository.
         - 📋 [Cisco ASA Transparent Mode](./networking/firewall/asa-transparent-mode.md)
     + 📁 [Switching](./#)
     + 📁 [TCP/IP](./#)
-
-* 📁 [Programming](./#)
 
 ## 📓 Certification Testing
 
@@ -49,6 +47,10 @@ This is my personal website and an open sourced I.T. training repository.
 
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
+    + 🔴 [Redteam](./hacking/redteam/kali-network-cookbook.md)
+        - 🧮 [Portscanning](./hacking/redteam/kali-network-cookbook/portscan.md)
+    + 🔵 [Blueteam](./hacking/blueteam/#)
+
 * 📁 [Programming](./programming/)
     + 📁 [C++](./programming/cpp/cpp-crash-course/toc.md)
 

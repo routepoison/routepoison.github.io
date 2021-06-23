@@ -67,4 +67,21 @@ If the destination port on the scan target is closed, an __RST__ packet will be 
 
 ## Port Scanning with Scapy (UDP, stealth, connect, zombie)
 
+Scapy is a Python based tool that can be used to craft and inject custom packetes into a network. In this section, we'll use Scapy to scan for UDP services. 
+
+This will be done by sending an empty UDP packet to destination prots and then identifying the ports that do not respond with an ICMP port-unreachable response.
+
+We will also use Scapy to perform a TCP stealth scan. TCP port stealth scan performs a partial, three-way TCP handshake on target ports to identify whether the ports are accepting connections or not (sometimes referred to as half-open scan).
+
+Finally, we will use Scapy to perform zombie scnas. It is possible to identify the open ports on a target system without ever giving that system any indication that you interacted with it, this method is extremely stealthy, but can be cumbersome to complete.
+
+The simplest way to complete these exercises is by having an available target system, in this case, we'll use [Metasploitable3](https://github.com/rapid7/metasploitable3).
+
+### UDP port scanning with Scapy
+
+
+
+
 ---
+
+[Routepoison](https://routepoison.com)

@@ -47,8 +47,8 @@ This is my personal website and an open sourced I.T. training repository.
 
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
-    + 🔴 [Redteam](./hacking/redteam/kali-network-cookbook.md)
-        - 🧮 [Portscanning](./hacking/redteam/kali-network-cookbook/portscan.md)
+    + 🔴 [Redteam](./hacking/redteam/kali-network-cookbook.html)
+        - 🧮 [Portscanning](./hacking/redteam/kali-network-cookbook/portscan.html)
     + 🔵 [Blueteam](./hacking/blueteam/#)
 
 * 📁 [Programming](./programming/)

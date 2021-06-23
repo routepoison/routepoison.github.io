@@ -10,7 +10,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🗄 Directory
 
- 📁 [Networking](./#)
+* 📁 [Networking](./#)
     + 📁 [Data Center](./#)
         - 📋 [vPC Technology Configuration](./networking/data-center/NX-OS_vPC.md) 
     + 📁 [DMVPN](./#)

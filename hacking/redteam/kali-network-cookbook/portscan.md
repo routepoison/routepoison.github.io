@@ -4,15 +4,9 @@
 
 Open ports on a target system is an important step to defining the attack surface of a target. Open ports correspond to the networked services that are running on a system.
 
-These open ports correspond to services that may be addressed with either
-UDP or TCP traffic. __Both TCP and UDP are transport protocols__. __Transmission Control
-Protocol (TCP)__ is the more commonly used of the two and provides _connection-oriented_
-communication.__ User Datagram Protocol (UDP)__ is a _non connection-oriented_ protocol that
-is sometimes used with services for which speed of transmission is more important than
-data integrity.
+These open ports correspond to services that may be addressed with either UDP or TCP traffic. __Both TCP and UDP are transport protocols__. __Transmission Control Protocol (TCP)__ is the more commonly used of the two and provides _connection-oriented_ communication. __User Datagram Protocol (UDP)__ is a _non connection-oriented_ protocol that is sometimes used with services for which speed of transmission is more important than data integrity.
 
-The penetration testing technique used to enumerate these services is called
-__port scanning__.
+The penetration testing technique used to enumerate these services is called __port scanning__.
 
 ## UDP port scanning
 

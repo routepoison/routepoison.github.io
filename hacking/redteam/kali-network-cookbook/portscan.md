@@ -1,5 +1,7 @@
 # Port Scanning
 
+[Back to the Kali Cookbook](..\kali-network-cookbook.md)
+
 ## Introduction to Port Scanning
 
 Open ports on a target system is an important step to defining the attack surface of a target. Open ports correspond to the networked services that are running on a system.
@@ -77,11 +79,8 @@ Finally, we will use Scapy to perform zombie scnas. It is possible to identify t
 
 The simplest way to complete these exercises is by having an available target system, in this case, we'll use [Metasploitable3](https://github.com/rapid7/metasploitable3).
 
-### UDP port scanning with Scapy
-
-
-
-
 ---
 
-[Routepoison](https://routepoison.com)
+[Samples and Examples of Portscanning with several methodologies](./portscan2.html)
+
+[Back to the main repo: Routepoison](../../../index.html)

@@ -4,13 +4,13 @@
 
 This is my personal website and an open sourced I.T. training repository.
 
-## 🔗 [Watch the stream!](https://twitch.tv/1000yardstare)
+🔗 [Watch the stream!](https://twitch.tv/1000yardstare)
 
-<img src="./img/twitch.jpg" height="150" width="150">
+<img src="./img/twitch.jpg" height="250" width="250">
 
-## 🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
+🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 
-<img src="./img/discord-logo-1024x1024.png" height="15 0" width="150">
+<img src="./img/discord-logo-1024x1024.png" height="250" width="250">
 
 ## 🗄 Directory
 

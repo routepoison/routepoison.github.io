@@ -61,3 +61,11 @@ INFO: Can't import PyX. Won't be able to use psdump() or
   chksum= None
 ```
 
+## Stacking Requests
+
+```python
+>>> request = (i/u)
+>>> request.display()
+```
+
+We can stack the IP and UDP layers by separating the variables with a forward slash. These layers can then be set equal to a new variable that will represent the entire request.

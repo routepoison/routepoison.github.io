@@ -6,7 +6,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 🔗 [Watch the stream!](https://twitch.tv/1000yardstare)
 
-<img src="./img/twitch.jpg" height="250" width="250">
+<img src="./img/twitch.png" height="250" width="450">
 
 🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 

@@ -66,14 +66,12 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## Calendar Updates
 
-### 📆 June 4th
-
-Alrighty then, it's been a while - I get a bit busy with work and what not (who doesn't). However! I do have some new content and I've been grinding hard so I'm just about ready to start advertising my content.
+### 📆 July 15th
 
 
 ### 📆 June 4th
 
-Start programming section amongst other updates.
+Alrighty then, it's been a while - I get a bit busy with work and what not (who doesn't). However! I do have some new content and I've been grinding hard so I'm just about ready to start advertising my content. Start programming section amongst other updates.
 
 ### 📆 May 7th
 

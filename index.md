@@ -43,10 +43,10 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🌎 Internet
 
-* [BGP Stream](http://bgpstream.com/)
-* [BGP Advanced Internet Resources](https://www.bgp4.as/)
-* [RFC Archive](https://www.rfc-archive.org/)
-* [Submarine Cable Map](https://www.submarinecablemap.com/)
+* 🌐 [BGP Stream](http://bgpstream.com/)
+* 🌐 [BGP Advanced Internet Resources](https://www.bgp4.as/)
+* 🌐 [RFC Archive](https://www.rfc-archive.org/)
+* 🌐 [Submarine Cable Map](https://www.submarinecablemap.com/)
 
 ## Programming
 
@@ -61,9 +61,10 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🛠 Resources
 
-* [Computer Storage Conversion Calculator](https://www.calculatorsoup.com/calculators/conversions/computerstorage.php)
-* [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
-* [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
+* 🧰 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* 🧰 [Computer Storage Conversion Calculator](https://www.calculatorsoup.com/calculators/conversions/computerstorage.php)
+* 🧰 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
+* 🧰 [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
 
 ---
 

@@ -46,6 +46,7 @@ This is my personal website and an open sourced I.T. training repository.
 * [BGP Stream](http://bgpstream.com/)
 * [BGP Advanced Internet Resources](https://www.bgp4.as/)
 * [RFC Archive](https://www.rfc-archive.org/)
+* [Submarine Cable Map](https://www.submarinecablemap.com/)
 
 ## Programming
 
@@ -60,14 +61,17 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🛠 Resources
 
-*
+* [Computer Storage Conversion Calculator](https://www.calculatorsoup.com/calculators/conversions/computerstorage.php)
+* [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
+* [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
 
 ---
 
 ## Calendar Updates
 
-### 📆 July 15th
+### 📆 July 26th
 
+A couple of more updates, slowly been compiling my work. I have had some personal matter that're ongoing, which is slowing my progress some-what, but we'll get there! 
 
 ### 📆 June 4th
 

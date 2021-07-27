@@ -48,7 +48,7 @@ This is my personal website and an open sourced I.T. training repository.
 * 🌐 [RFC Archive](https://www.rfc-archive.org/)
 * 🌐 [Submarine Cable Map](https://www.submarinecablemap.com/)
 
-## Programming
+## 💻 Programming
 
 * 📁 [Cryptocurrency](./#)
 * 📁 [Hacking](./#)
@@ -59,6 +59,11 @@ This is my personal website and an open sourced I.T. training repository.
 * 📁 [Programming](./programming/)
     + 📁 [C++](./programming/cpp/cpp-crash-course/toc.md)
 
+## ✏️ Mathematics
+
+* 📁 [Discrete Mathematics]()
+* 📁 [Linear Algebra]()
+
 ## 🛠 Resources
 
 * 🧰 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
@@ -67,6 +72,8 @@ This is my personal website and an open sourced I.T. training repository.
 * 🧰 [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
 
 ---
+
+###
 
 ## Calendar Updates
 

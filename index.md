@@ -71,13 +71,13 @@ This is my personal website and an open sourced I.T. training repository.
 * 🧰 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
 * 🧰 [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
 
-### 🥼 Academics and Course Resources
+## 🏫 Academics and Course Resources
 
-* []
+* []()
 
 ---
 
-###
+### 
 
 ## Calendar Updates
 

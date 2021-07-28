@@ -77,7 +77,6 @@ This is my personal website and an open sourced I.T. training repository.
 
 ---
 
-### 
 
 ## Calendar Updates
 

@@ -71,20 +71,7 @@ This is my personal website and an open sourced I.T. training repository.
 * 🧰 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
 * 🧰 [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
 
-<<<<<<< Updated upstream
-## 🏫 Academics and Course Resources
-
-* []()
-
 ---
-
-=======
----
-
-🔗 [Watch the stream!](https://twitch.tv/1000yardstare)
-
-<img src="./img/twitch.png" height="250" width="450">
->>>>>>> Stashed changes
 
 ## Calendar Updates
 

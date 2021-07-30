@@ -4,10 +4,6 @@
 
 This is my personal website and an open sourced I.T. training repository.
 
-🔗 [Watch the stream!](https://twitch.tv/1000yardstare)
-
-<img src="./img/twitch.png" height="250" width="450">
-
 🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 
 <img src="./img/discord-logo-1024x1024.png" height="250" width="250">
@@ -59,6 +55,10 @@ This is my personal website and an open sourced I.T. training repository.
 * 📁 [Programming](./programming/)
     + 📁 [C++](./programming/cpp/cpp-crash-course/toc.md)
 
+### 🥼 Academics and Course Resources
+
+* []()
+
 ## ✏️ Mathematics
 
 * 📁 [Discrete Mathematics]()
@@ -71,12 +71,20 @@ This is my personal website and an open sourced I.T. training repository.
 * 🧰 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
 * 🧰 [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
 
+<<<<<<< Updated upstream
 ## 🏫 Academics and Course Resources
 
 * []()
 
 ---
 
+=======
+---
+
+🔗 [Watch the stream!](https://twitch.tv/1000yardstare)
+
+<img src="./img/twitch.png" height="250" width="450">
+>>>>>>> Stashed changes
 
 ## Calendar Updates
 

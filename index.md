@@ -57,7 +57,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 ### 🥼 Academics and Course Resources
 
-* []()
+* 📂 [MAT120 - Discrete]()
 
 ## ✏️ Mathematics
 

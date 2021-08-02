@@ -77,7 +77,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 ### 📆 July 26th
 
-A couple of more updates, slowly been compiling my work. I have had some personal matter that're ongoing, which is slowing my progress some-what, but we'll get there! 
+A couple of more updates, slowly been compiling my work. I have had some personal matters that're ongoing, which is slowing my progress somewhat, but we'll get there! 
 
 ### 📆 June 4th
 

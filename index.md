@@ -66,6 +66,7 @@ This is my personal website and an open sourced I.T. training repository.
 
 ## 🛠 Resources
 
+* 🧰 [Subnet Calculator](https://www.subnet-calculator.com/)
 * 🧰 [Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * 🧰 [Computer Storage Conversion Calculator](https://www.calculatorsoup.com/calculators/conversions/computerstorage.php)
 * 🧰 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)

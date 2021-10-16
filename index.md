@@ -12,12 +12,10 @@
 
 ![Cisco Certifications](./certifications/cisco-expanded-cert-suite.png)
 
-* 📚 [CCNA](./certifications/CCNA/ccna.html)
-    + 📚 [CCNA](./certifications/CCNA/ccna.html)
-
-* 📚 [CCNP](./certifications/CCNP/ccnp.html)
-
-* 📚 [CCIE](./certifications/CCIE/ccie.html)
+* 📚 [CCIE](./certifications/CCIE/ccie.html)
+* 📚 [CCNP](./certifications/CCNP/ccnp.html)[]
+* 📚 [CCNA](./certifications/CCNA/ccna.html)
+    + 📚 [CCNA](./certifications/CCNA/ccna.html)
 
 ### 🌎 Internet
 

@@ -16,7 +16,6 @@
     + 📚 [CCNA](./certifications/CCNA/ccna.html)
 
 * 📚 [CCNP](./certifications/CCNP/ccnp.html)
-
 * 📚 [CCIE](./certifications/CCIE/ccie.html)
 
 ### 🌎 Internet

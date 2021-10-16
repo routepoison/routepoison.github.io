@@ -13,8 +13,28 @@
 ![Cisco Certifications](./certifications/cisco-expanded-cert-suite.png)
 
 * 📚 [CCIE](./certifications/CCIE/ccie.html)
-* 📚 [CCNP](./certifications/CCNP/ccnp.html)[]
+    + 📚 [Automation](./certifications/CCIE/#.html)
+    + 📚 [Enterprise](./certifications/CCIE/#.html)
+    + 📚 [Security](./certifications/CCIE/#.html)
+    + 📚 [Wireless](./certifications/CCIE/#.html)
+* 📚 [CCNP](./certifications/CCNP/ccnp.html)
+    + 📚 [Automation](./certifications/CCNP/#.html)
+    + 📚 [Enterprise](./certifications/CCNP/#.html)
+    + 📚 [Security](./certifications/CCNP/#.html)
+    + 📚 [Wireless](./certifications/CCNP/#.html)
 * 📚 [CCNA](./certifications/CCNA/ccna.html)
+    + 📚 [Automation](./certifications/CCNA/#.html)
+        - 📖 []
+    + 📚 [Wireless](./certifications/CCNA/#.html)
+    + 📚 [Security](./certifications/CCNA/#.html)
+
+* [Prisma Certified Cloud Security Engineer](./#)
+    + 📚 [CCNA](./certifications/CCNA/ccna.html)
+* [Palo Alto Networks Certified Network Security Engineer](./#)
+    + 📚 [CCNA](./certifications/CCNA/ccna.html)
+* [Palo Alto Networks Certified Security Automation Engineer](./#)
+    + 📚 [CCNA](./certifications/CCNA/ccna.html)
+* [Palo Alto Networks Certified Network Security Administrator](./# )
     + 📚 [CCNA](./certifications/CCNA/ccna.html)
 
 ### 🌎 Internet

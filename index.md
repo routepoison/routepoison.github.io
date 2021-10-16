@@ -13,7 +13,6 @@
 ![Cisco Certifications](./certifications/cisco-expanded-cert-suite.png)
 
 * 📚 [CCNA](./certifications/CCNA/ccna.html)
-
     + 📚 [CCNA](./certifications/CCNA/ccna.html)
 
 * 📚 [CCNP](./certifications/CCNP/ccnp.html)

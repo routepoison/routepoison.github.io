@@ -10,47 +10,9 @@
 
 ### Certifications
 
-![Cisco Certifications](./certifications/cisco-expanded-cert-suite.png)
-
-* 📚 [CCIE](./certifications/CCIE/ccie.html)
-    + 📗 [Automation](./certifications/CCIE/#.html)
-        - 📖 [200-901-DEVASC.pdf](./#)    
-    + 📙 [Enterprise](./certifications/CCIE/#.html)
-        - 📖 [(Wireless)](./#)    
-    + 📕 [Security](./certifications/CCIE/#.html)
-        - 📖 [(Security)](./#)    
-    + 📘 [Wireless](./certifications/CCIE/#.html)
-        - 📖 [(Wireless)](./#)    
-* 📚 [CCNP](./certifications/CCNP/ccnp.html)
-    + 📗 [Automation](./certifications/CCNP/#.html)
-        - 📖 [(Automation)](./#)    
-    + 📙 [Enterprise](./certifications/CCNP/#.html)
-        - 📖 [(Enteprise)](./#)    
-    + 📕 [Security](./certifications/CCNP/#.html)
-        - 📖 [(Security)](./#)    
-    + 📘 [Wireless](./certifications/CCNP/#.html)
-        - 📖 [(Wireless)](./#)    
-* 📚 [CCNA](./certifications/CCNA/ccna.html)
-    + 📗 [Automation](./certifications/CCNA/#.html)
-        - 📖 [(Automation)](./#)
-    + 📙 [Wireless](./certifications/CCNA/#.html)
-        - 📖 [(Wireless)](./#)    
-    + 📕 [Security](./certifications/CCNA/#.html)
-        - 📖 [(Security](./#)    
-    + 📘 [Wireless](./certifications/CCIE/#.html)
-
-* [Prisma Certified Cloud Security Engineer](./#)
-    + 📚 [CCNA](./certifications/CCNA/ccna.html)
-* [Palo Alto Networks Certified Network Security Engineer](./#)
-    + 📚 [CCNA](./certifications/CCNA/ccna.html)
-* [Palo Alto Networks Certified Security Automation Engineer](./#)
-    + 📚 [CCNA](./certifications/CCNA/ccna.html)
-* [Palo Alto Networks Certified Network Security Administrator](./# )
-    + 📚 [CCNA](./certifications/CCNA/ccna.html)
-
 ### 🌎 Internet
 
-* [BGP4.as](https://www.bgp4.as/)
+* 🌐 [BGP4.as](https://www.bgp4.as/)
 * 🌐 [BGP Stream](http://bgpstream.com/)
 * 🌐 [BGP Advanced Internet Resources](https://www.bgp4.as/)
 * 🌐 [RFC Archive](https://www.rfc-archive.org/)
@@ -74,14 +36,6 @@
 * 🧰 [Computer Storage Conversion Calculator](https://www.calculatorsoup.com/calculators/conversions/computerstorage.php)
 * 🧰 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
 * 🧰 [Number,String,Time Converter, Bandwidth, More...](https://coderstoolbox.net/number/)
-
----
-
-## Calendar Updates
-
-### 📆 September 18th 2021
-
-I've been out of commission for some time, after a car accident, I'm finally back and ready to develop some cool new tools to be published here.
 
 ---
 

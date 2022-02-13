@@ -1,3 +1,38 @@
+## Notes 2/12/2022
+
+Networking
+
+Network Programmability - Become a NetDevOps maven by harnessing the power of Infrastructure as Code and building a culture of automation and programmability.
+
+# BRKEMT-2015: Your First Steps Towards Network Programmability - Use Your Programmable Cisco Platforms to Automate Your Daily Workflows
+
+
+## BRKEMT-2015 Notes
+
+__Tools__
+
+* PYANG
+* Interactive Documentation
+* Postman
+* Python
+
+[Session Github Repo.](https://github.com/BRKEMT2015/code)
+
+# BRKEMT-2006: NetDevOps is a Team Exercise
+
+# BRKEMT-2007: NetDevOps - CI/CD with Cisco DNA Center Templates as Code
+
+# BRKDEV-2003:  DevNet: Contact Tracing using your network as a sensor Start
+
+# BRKEMT-2005: Back to the Office A Cisco DNA Center Pandemic Proximity API Use Case
+
+# BRKDEV-2007: DevNet: Fun with Cisco SD-WAN Programmability Finish
+
+
+python --version
+pip install --user pipenv
+
+
 
 ![Cisco Certifications](./certifications/cisco-expanded-cert-suite.png)
 

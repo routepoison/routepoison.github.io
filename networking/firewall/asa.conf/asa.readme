@@ -1,0 +1,74 @@
+# Cisco ASA
+
+## Table of Content
+
+### SSH & Remote Mgmt.
+
+__Define Local Username and Password__
+
+```
+ASA#configure terminal
+ASA(config)#username username privilege 15 password some_password
+```
+__Define AAA Lists for SSH__
+
+```
+ASA(config)#aaa authentication ssh console LOCAL
+```
+
+__Generate Crypto Key Pair to Use with SSH Server__
+
+```
+ASA(config)#domain-name grandmetric.labs
+ASA(config)#crypto key generate rsa general-keys modulus 1024
+```
+
+In addition you can set the allowed sources, and define on which interface ssh will be allowed:
+
+```
+ASA(config)#ssh 0.0.0.0 0.0.0.0 OUTSIDE
+```
+
+Hint: With ASA you can provide 0 0 that means 0.0.0.0 0.0.0.0, so above line can be written as:
+
+```
+ASA(config)#ssh 0 0 OUTSIDE
+```
+
+## --- 
+
+### Legal
+
+```
+This is free software, and you are welcome to redistribute it under the General 
+Public License v.2 (http://www.gnu.org/licenses/gpl-2.0.html)
+See User Manual (''Licensing'') for details.
+
+util-linux, version 2.16.1, Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+The following components, built for inclusion in Busybox.
+The following components from util-linux come with ABSOLUTELY NO WARRANTY.
+fdisk:
+  Copyright (C) 1992  A. V. Le Blanc (LeBlanc@mcc.ac.uk)
+  Copyright (C) 2001,2002 Vladimir Oleynik <dzo@simtreas.ru> (initial bb port)
+dmesg:
+  Copyright 2006 Rob Landley <rob@landley.net>
+  Copyright 2006 Bernhard Reutner-Fischer <rep.nop@aon.at>
+mkswap:
+  Copyright 2006 Rob Landley <rob@landley.net>
+mount:
+  Copyright (C) 1995, 1996 by Bruce Perens <bruce@pixar.com>.
+  Copyright (C) 1999-2004 by Erik Andersen <andersen@codepoet.org>
+  Copyright (C) 2005-2006 by Rob Landley <rob@landley.net>
+umount:
+  Copyright (C) 1999-2004 by Erik Andersen <andersen@codepoet.org>
+  Copyright (C) 2005 by Rob Landley <rob@landley.net>
+This is free software, and you are welcome to redistribute it under the General
+Public License v.2 (http://www.gnu.org/licenses/gpl-2.0.html)
+See User Manual (''Licensing'') for details.
+```
+
+## Resources
+
+[]()
+
+---

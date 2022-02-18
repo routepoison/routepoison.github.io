@@ -1,3 +1,5 @@
+# Switching
+
 Repeaters make a strong copy of a signal.
 They are actually considered layer one devices.
 

@@ -1,0 +1,80 @@
+# 2.5.3. Shell Nav Exercise 1
+
+# SOME NOTES:
+# * text listed after "$" I mean for you to enter into the shell and then
+#   press enter
+# * text listed after "#" are comments from me to you but are ignored by
+#   the shell
+#
+# this short tutorial is meant to run through foundational shell commands
+# with brief explanations for each
+
+# the following command "parks" your shell in your home directory (which is
+# somewhere you can create files!)
+
+$ cd
+
+# the following command shows where your shell is parked
+
+$ pwd
+
+# the following command creates a new directory called "tutorial" where you
+# are currently parked
+
+$ mkdir tutorial
+
+# the following command moves your shell and parks it in the "tutorial" folder
+# you just created
+
+$ cd tutorial
+
+# pwd stands for "print working directory". "working directory" is the
+# technical term for where one's shell is parked
+
+$ pwd
+
+# the following command creates an empty file with the name "note.txt"
+
+$ touch note.txt
+
+# the following command list the contents of your working directory
+
+$ ls
+
+# personally, I prefer a one column output of the contents of my working
+# directory, like
+
+$ ls -l
+
+# the following command shows the text content of "note.txt" (which is empty
+# right now)
+
+$ cat note.txt
+
+# the following command puts "hello world! I'm a snail" into "note.txt"
+
+$ echo "hello world! I'm a snail" > note.txt
+
+# cat will print something now that there is content in "note.txt"
+
+$ cat note.txt
+
+# the following command makes a copy of "note.txt" called "new-note.txt"
+
+$ cp note.txt new-note.txt
+
+# what is in "new-note.txt"?
+
+$ cat new-note.txt
+
+# * the following command opens "new-note.txt" in a terminal text editor
+# * try changing the file, then press Ctrl-X to exit and save
+
+$ nano new-note.txt
+
+# if you were successful, this command should print the new content
+
+$ cat new-note.txt
+
+# if you were not successful, that is just fine. revisit this exercise after
+# some more reading and practice!

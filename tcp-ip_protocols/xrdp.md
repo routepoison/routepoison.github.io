@@ -38,5 +38,32 @@ sudo ufw allow from 192.168.1.0/24 to any port 3389
 sudo ufw allow 3389
 ```
 
+## From OSX
+
+```
+You can use Microsoft Remote Desktop from App Store. Set up your Ubuntu this way:
+
+From DigitalOcean community page.
+
+    sudo apt-get update
+
+If you don't have desktop installed:
+
+    sudo apt-get install ubuntu-desktop
+
+After that install XRDP:
+
+    sudo apt-get install xrdp
+
+Enable XRDP to start on boot:
+
+    sudo systemctl enable xrdp
+
+If you have a firewall make sure that the 3389 port is open:
+
+    sudo ufw allow 3389/tcp
+
+Now connect with Microsoft Remote desktop to your Linux machine.
+```
 
 ---

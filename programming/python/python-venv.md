@@ -1,3 +1,6 @@
+# venv (Virtual Environment)
+
+```
 C:\Users\grs\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\Scripts
 
 $ sudo apt update
@@ -22,3 +25,6 @@ grs@ubuntu:$ source grs/bin/activate
 (grs) grs@ubuntu:$ deactive
 deactive: command not found
 (grs) grs@ubuntu:$ deactivate 
+```
+
+---

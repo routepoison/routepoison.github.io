@@ -11,6 +11,20 @@ sudo apt list --installed | less
 sudo apt list --installed | grep -i package_name
 ```
 
+### Another way to view packages
+
+> sudo dpkg-query -l | less
+
+## Installing Packages & Applications
+
+### Install App
+
+> sudo apt install ./[APP.deb]
+
+### Uninstall App
+
+> sudo apt remove 
+
 ## Add User
 
 ```

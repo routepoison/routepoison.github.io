@@ -41,4 +41,9 @@ cat /etc/passwd | grep cloudcone
 sudo usermod -aG sudo [USERNAME]
 ```
 
+## Messaging in Ubuntu
+
+```
+wall "System will go down for 2 hours maintenance at 13:00 PM"
+```
 ---

@@ -1,0 +1,2 @@
+print("picoCTF\n")
+print('\x70\x69\x63\x6f\x43\x54\x46\n')

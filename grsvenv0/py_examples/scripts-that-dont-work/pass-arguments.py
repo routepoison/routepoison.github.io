@@ -7,7 +7,8 @@ print('Number of arguments: ', len(sys.argv),
 print('Argument List', str(sys.argv))
 print('The number of arguments is taken from the second argument.')
 print('Remember that in an array [0] is the first one, [1] is the second one.')
-number_iterations = sys.argv[1]
+print(len(sys.argv[0]))
+number_iterations = sys.argv[0]
 f = open('output2.txt', 'w')
 for i in range(int(number_iterations)):
     if i < 5:

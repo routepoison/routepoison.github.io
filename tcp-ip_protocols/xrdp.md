@@ -66,4 +66,24 @@ If you have a firewall make sure that the 3389 port is open:
 Now connect with Microsoft Remote desktop to your Linux machine.
 ```
 
+## How to Fix “Authentication is required to create a color profile/managed device”
+
+/etc/polkit-1/localauthority.conf.d/02-allow-colord.conf
+
+> sudo nano /etc/polkit-1/localauthority.conf.d/02-allow-colord.conf
+
+```Create a config profile, reboot, and the message should decease
+polkit.addRule(function(action, subject) {
+ if ((action.id == "org.freedesktop.color-manager.create-device" ||
+ action.id == "org.freedesktop.color-manager.create-profile" ||
+ action.id == "org.freedesktop.color-manager.delete-device" ||
+ action.id == "org.freedesktop.color-manager.delete-profile" ||
+ action.id == "org.freedesktop.color-manager.modify-device" ||
+ action.id == "org.freedesktop.color-manager.modify-profile") &&
+ subject.isInGroup("{users}")) {
+ return polkit.Result.YES;
+ }
+});
+```
+
 ---

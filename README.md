@@ -1,8 +1,6 @@
 # Readme
 
-## Clipboard
-
-### Using Python and pip
+## Linux Commands
 
 > sudo apt update
 

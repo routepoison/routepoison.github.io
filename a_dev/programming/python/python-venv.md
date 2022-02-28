@@ -4,10 +4,13 @@
 C:\Users\grs\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\Scripts
 
 $ sudo apt update
+
 $ sudo apt install python3-pip
+
 $ python3 -m venv venv 
+
 $ source venv/bin/activate
-(venv) $
+
 (venv) $ which python
 /home/echou/venv/bin/python
 (venv) $ deactivate

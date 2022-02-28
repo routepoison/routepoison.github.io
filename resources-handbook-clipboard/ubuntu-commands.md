@@ -1,5 +1,11 @@
 # Ubuntu Commands
 
+## Update System
+
+Simple command to update packages, also can test your privileges with it.
+
+> sudo apt update
+
 ## Working with Packages
 
 ```

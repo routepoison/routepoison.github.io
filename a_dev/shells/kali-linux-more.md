@@ -47,4 +47,59 @@ site:firebase.google.com -site:on.google.com -
 site:developers.google.com
 ```
 
+## theHarvester
+
+theHarvest is a great tool to grab loads of information from a doman. Again, we'll use Google as the example:
+
+> theHarvester -d google.com -l 500 -b google
+
+```
+┌──(grs㉿kali)-[~]
+└─$ theHarvester -d google.com -l 500 -b google
+
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.0.3                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+******************************************************************* 
+
+
+[*] Target: google.com 
+ 
+        Searching 0 results.
+        Searching 100 results.
+        Searching 200 results.
+        Searching 300 results.
+        Searching 400 results.
+        Searching 500 results.
+[*] Searching Google. 
+
+[*] No IPs found.
+
+[*] No emails found.
+
+[*] Hosts found: 12
+---------------------
+accounts.google.com:142.251.35.173
+adservice.google.com:142.251.40.226
+apis.google.com:142.250.64.110
+maps.google.com:142.251.32.110
+meet.google.com:142.251.40.206
+myactivity.google.com:142.250.31.102, 142.250.31.139, 142.250.31.138, 142.250.31.113, 142.250.31.101, 142.250.31.100
+ogs.google.com:142.251.40.206
+passwords.google.com:142.250.72.110
+policies.google.com:142.250.176.206
+support.google.com:142.251.32.110
+translate.google.com:142.251.41.14
+www.google.com:142.250.176.196
+```
+
 ---

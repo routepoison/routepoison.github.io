@@ -99,4 +99,18 @@ LISTEN    0      1024         0.0.0.0:8834          0.0.0.0:*
 LISTEN    0      1024            [::]:8834             [::]:*       
 ```
 
+### Nessus Account
+
+Of course, the next day I forgot the login I created, so to recover there's a file in the home directory:
+
+```
+┌──(grs㉿kali)-[~]
+└─$ cd ../../opt/nessus/sbin/
+
+┌──(grs㉿kali)-[/opt/nessus/sbin]
+└─$ sudo ./nessuscli lsuser
+[sudo] password for grs: 
+routepoison
+```
+
 ---

@@ -2,7 +2,7 @@
 
 ## Github Client for Linux
 
-You can download the [https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1](desktop client here).
+You can download the [desktop client here](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1).
 
 ## Signal Messaging Client
 

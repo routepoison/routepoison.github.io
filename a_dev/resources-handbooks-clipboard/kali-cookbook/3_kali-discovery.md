@@ -13,7 +13,13 @@
 
 ## Using Scapy to perform host discovery (layers 2/3/4)
 
+Scapy is a power interactive Python tool that can capture, anaylze, manipulate and create protocol-compliant network traffic, which can then be injected into a network.
 
+Here we will demonstrate how to use Scapy to perform discover in layer 2, 3, and 4.
+
+1. Use Scapy to perform ARP discovery
+2. Use Scapy to inkect and analyze ICMP traffic (L3)
+3. Use Scapy to perform L4 discovery using TCP & UDP
 
 ## Using Nmap to perform host discovery (layers 2/3/4)
 

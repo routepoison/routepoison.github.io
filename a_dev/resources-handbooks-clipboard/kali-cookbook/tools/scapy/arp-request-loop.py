@@ -12,15 +12,13 @@ if len(sys.argv) != 2:
     sys.exit()
 
 interface = str(sys.argv[1])
-ip = subprocess.check_output("ifconfig " + interface +
-    " | grep 'inet ' | awk '{ print $2 }'
-    | cut -d ':' -f2", shell=True).strip()
-prefix = ip.split('.')[0] + '.' + ip.split('.')[1] +
-    '.' +ip.split('.')[2] + '.'
+# subprocess.check_output() returns bytes.
+ip = subprocess.check_output("ifconfig " + interface + " | grep 'inet ' | awk '{ print $2 }' | cut -d ':' -f2", shell=True).strip()
+prefix = ip.split(b'.')[0] + b'.' + ip.split(b'.')[1] + b'.' + ip.split(b'.')[2] + b'.'
 
 for addr in range(0,254):
-    answer=sr1(ARP(pdst=prefix+str(addr)),timeout=1,verbose=0)
-     if answer == None:
+    answer=sr1(ARP(pdst=bytes(prefix)+ bytes(addr)),timeout=1,verbose=0)
+    if answer == None:
         pass
 else:
     print(prefix+str(addr))

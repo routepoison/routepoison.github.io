@@ -7,7 +7,6 @@
 <img src="./img/discord-logo-1024x1024.png" height="250" width="250">
 
 ## Blog
-
 ### June 27th 2022
 
 Back at it after a while off. I'm young in my career but I believe it's inevitable that in some professions. The sheer competitive aspects mixed with high demand and a rapidly changing enviroment makes for challenges to even the most productive Engineer.

@@ -8,6 +8,10 @@
 
 ## Blog
 
+### September 8th
+
+Nobody.
+
 ### June 27th 2022
 
 Back at it after a while off. I'm young in my career but I believe it's inevitable that in some professions. The sheer competitive aspects mixed with high demand and a rapidly changing enviroment makes for challenges to even the most productive Engineer.

@@ -8,6 +8,10 @@
 
 ## Blog
 
+### December 22nd
+
+[Hacking](./hacking/hacking.md) has been updated and will continue to be built out.
+
 ### Nov 25th
 
 Happy Thanksgiving! Getting back into the swing of things, we'll start observing CTFs and other studies regarding computer networks. I hope to start posting more often and maybe offering some good to those interested in computing.

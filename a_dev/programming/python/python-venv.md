@@ -1,5 +1,41 @@
 # venv (Virtual Environment)
 
+## installation
+
+If you haven’t installed pip, you can install it
+
+> sudo apt-get install python3-pip
+
+### Install Virtualenv using pip3
+
+> sudo pip3 install virtualenv
+
+### You can create a virtual environment
+
+> virtualenv venv
+
+### You can use the specific version
+
+> virtualenv --python python3 venv
+
+### You can use specific interpreter
+
+> virtualenv -p /usr/bin/python2.7 venv
+
+### Activate your virtual environment
+
+> source venv/bin/activate
+
+### How to deactivate?
+
+> deactivate
+
+### If you face any issues in Ubuntu, you may need to install
+
+> sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+
+---
+
 ```
 C:\Users\grs\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\Scripts
 

@@ -8,6 +8,36 @@
 
 ## Blog
 
+### December 22nd
+
+[Hacking](./hacking/hacking.md) has been updated and will continue to be built out.
+
+### Nov 25th
+
+Happy Thanksgiving! Getting back into the swing of things, we'll start observing CTFs and other studies regarding computer networks. I hope to start posting more often and maybe offering some good to those interested in computing.
+
+![]
+
+```
+fetch(url, {
+	method: 'POST',
+	headers: {
+	"Content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+	},
+	credentials: 'include',
+	body: 'foo=bar&lorem=ipsum'
+})
+.then(res.json())
+.then(res => {
+	// Handle response
+	console.log('Response: ', res);
+})
+.catch(err => {
+	// Handle error
+	console.log('Error message: ', error);
+});
+```
+
 ### Nov 14th
 
 ## 🗄 Directory
@@ -29,7 +59,7 @@
     + 🔴 [Redteam](./hacking/redteam/kali-network-cookbook.html)
         - 🧮 [Portscanning](./hacking/redteam/kali-network-cookbook/portscan.html)
     + 🔵 [Blueteam](./hacking/blueteam/#)
-* {Markdown]
+* [Markdown]
 * 📁 [Programming](./programming/)
     + 📁 [C++](./programming/cpp/cpp-crash-course/toc.md)
 

@@ -1,4 +1,8 @@
-# Welcome to RoutePoison.com
+# RP Techology
+
+## Who are we?
+
+This is my personal blog that I occasionally update with journal entries and sometimes tutorials.
 
 &nbsp;<a href="https://github.com/routepoison"><img src="https://badgen.net/badge/github/routepoison/green?icon=github"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/personal-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/academic-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/professional-website/routepoison/green"></a>&nbsp;
 
@@ -7,6 +11,10 @@
 <img src="./img/discord-logo-1024x1024.png" height="250" width="250">
 
 ## Blog
+
+### March 29th 2023 
+
+As you may have imagined, my website has remained incomplete, un-updated, untouched. I'm also not to certain what would compel me to write at all, but here goes. Writers block is a hell of an issue I've never had before today. Otherwise, all is good in the world. What makes me jump back into this(journaling/blog), or finally inspired me, is that I need some type of structure in my life, and I think this will become the best tool, eventually. Anyway... thanks for reading!
 
 ### December 22nd
 

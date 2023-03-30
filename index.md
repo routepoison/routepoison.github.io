@@ -2,7 +2,7 @@
 
 &nbsp;<a href="https://github.com/routepoison"><img src="https://badgen.net/badge/github/routepoison/green?icon=github"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/personal-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/academic-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/professional-website/routepoison/green"></a>&nbsp;
 
-
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
 ## Who are we?
 
@@ -14,7 +14,7 @@ This is my personal blog that I occasionally update with journal entries and som
 
 #### Builds
 
-* 🔧 [Warlock Build](./d2/warlock-builds.md)
+* 🔧 [Warlock Builds](./d2/warlock-builds.md)
 
 #### 🛠 Other Resources
 

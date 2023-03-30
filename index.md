@@ -1,10 +1,18 @@
 # RP Techology
 
+&nbsp;<a href="https://github.com/routepoison"><img src="https://badgen.net/badge/github/routepoison/green?icon=github"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/personal-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/academic-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/professional-website/routepoison/green"></a>&nbsp;
+
 ## Who are we?
 
 This is my personal blog that I occasionally update with journal entries and sometimes tutorials.
 
-&nbsp;<a href="https://github.com/routepoison"><img src="https://badgen.net/badge/github/routepoison/green?icon=github"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/personal-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/academic-website/routepoison/green"></a><a href="https://routepoison.com"><img src="https://badgen.net/badge/professional-website/routepoison/green"></a>&nbsp;
+## 🗄  Directory
+
+### Destiny 2
+
+* 🌐 [Warlock Build](./d2/warlock-builds.md)
+
+---
 
 🔗 [Join the Discord!](https://discord.gg/GN4tyGZtfP)
 
@@ -48,7 +56,7 @@ fetch(url, {
 
 ### Nov 14th
 
-## 🗄 Directory
+## 🗄 Other Directory
 
 ### Certifications
 

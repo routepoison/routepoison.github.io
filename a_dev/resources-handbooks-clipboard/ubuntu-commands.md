@@ -126,6 +126,47 @@ Open current working directory in shell.
 
 > xdg-open .
 
-##
+## Change hostname
+
+> sudo hostname new-hostname
+
+> hostnamectl set-hostname new-hostname
+
+```
+
+
+
+
+Last login: Thu Feb  9 02:37:23 2023 from 192.168.1.4
+grs@grs-charlemagne:~$ sudo apt update && sudo apt upgrade -y
+[sudo] password for grs: 
+grs is not in the sudoers file.  This incident will be reported.
+grs@grs-charlemagne:~$ groups grs
+grs : grs
+grs@grs-charlemagne:~$ usermod -aG sudo grs    
+usermod: Permission denied.
+usermod: cannot lock /etc/passwd; try again later.
+grs@grs-charlemagne:~$ sudo usermod -aG sudo grs
+[sudo] password for grs: 
+grs is not in the sudoers file.  This incident will be reported.
+grs@grs-charlemagne:~$ su
+Password: 
+su: Authentication failure
+grs@grs-charlemagne:~$ su
+Password: 
+root@grs-charlemagne:/home/grs# usermod -aG sudo grs
+root@grs-charlemagne:/home/grs# exit
+exit
+grs@grs-charlemagne:~$ groups grs\
+> ^C
+grs@grs-charlemagne:~$ groups grs
+grs : grs sudo
+grs@grs-charlemagne:~$ sudo apt update && sudo apt upgrade -y
+[sudo] password for grs: 
+grs is not in the sudoers file.  This incident will be reported.
+grs@grs-charlemagne:~$ su root
+Password: 
+root@grs-charlemagne:/home/grs# nano /etc/sudoers
+```
 
 ---

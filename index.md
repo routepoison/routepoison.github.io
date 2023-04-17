@@ -10,6 +10,12 @@ This is my personal blog that I occasionally update with journal entries and som
 
 ## 🗄  Directory
 
+## Twitch
+
+I've been streaming and developing a calendar to bring more content to my subscribers! Looks at for up and coming changes around here.
+
+* 👾 [Check out my twitch stream! https://twitch.tv/1000yardstare](https://twitch.tv/1000yardstare)
+
 ### 🎮 Destiny 2 
 
 #### Builds
@@ -19,6 +25,7 @@ This is my personal blog that I occasionally update with journal entries and som
 #### 🛠 Other Resources
 
 * 🐦 [https://twitter.com/blueberriesGG](https://twitter.com/blueberriesGG)
+* 🌀 [Today is Destiny - Lost Sector Calendar](https://www.todayindestiny.com/ls_calendar)
 
 ---
 

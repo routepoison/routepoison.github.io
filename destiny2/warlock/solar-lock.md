@@ -1,5 +1,12 @@
 # Warlock Builds
 
+## [Solar](./#)
+
+* [Void](./void-lock.md)
+* [Arc](./arc-lock.md)
+* [Stassis](./stassis-lock.md)
+* [Strand](./strand-lock.md)
+
 ![lock](./solar-lock.png)
 
 ## Solar Ignition Build

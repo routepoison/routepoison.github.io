@@ -1,6 +1,6 @@
 # Warlock Builds
 
-## [Solar](./#)
+## [Solar](./solar-lock.md)
 
 * [Void](./void-lock.md)
 * [Arc](./arc-lock.md)

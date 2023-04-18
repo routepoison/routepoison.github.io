@@ -6,8 +6,8 @@ Update these settings for a better experience.
 
 | Setting | I/O | Note |
 |:-:|:-:|:-:|
-| Motion Blue | OFF | Foreground Blue |
-| Aim Smooting | OFF | |
+| Motion Blur | OFF | Foreground Blur |
+| Aim Smoothing | OFF | |
 | Controller Vibration | OFF | Console Only |
 | vsync | OFF | Prevents screen tears - use gsync instead |
 | Film Grain | OFF |  Used in older movie, not really needed |

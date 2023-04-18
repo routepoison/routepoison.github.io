@@ -21,7 +21,7 @@ I've been streaming and developing a calendar to bring more content to my subscr
 #### Builds
 
 * 🔧 [Settings](./destiny2/d2-settings.md)
-* 🔧 [Warlock Builds](./destiny2/warlock/warlock-builds.md)
+* 🔧 [Warlock Builds](./destiny2/warlock/solar-lock.md)
 
 
 #### 🛠 Other Resources

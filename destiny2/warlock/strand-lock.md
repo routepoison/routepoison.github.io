@@ -2,7 +2,7 @@
 
 ## [Strand](./strand-lock.md)
 
-* [Solar](./#)
+* [Solar](./solar-lock.md)
 * [Void](./void-lock.md)
 * [Stassis](./stassis-lock.md)
 * [Arc](./arc-lock.md)

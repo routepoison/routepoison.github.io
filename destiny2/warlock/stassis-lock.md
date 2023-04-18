@@ -2,7 +2,7 @@
 
 ## [Stassis](./stassis-lock.md)
 
-* [Solar](./#)
+* [Solar](./solar-lock.md)
 * [Void](./void-lock.md)
 * [Arc](./arc-lock.md)
 * [Strand](./strand-lock.md)

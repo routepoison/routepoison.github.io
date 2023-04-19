@@ -7,7 +7,7 @@
 * [Stassis](./stassis-lock.md)
 * [Arc](./arc-lock.md)
 
-##
+![strand-lock](.strand-lock.png)
 
 ---
 

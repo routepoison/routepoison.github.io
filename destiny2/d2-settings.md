@@ -12,7 +12,7 @@ Update these settings for a better experience.
 | vsync | OFF | Prevents screen tears - use gsync instead |
 | Film Grain | OFF |  Used in older movie, not really needed |
 | Chromatic Abberation | OFF | Not noticeable, same reason above |
-| ADS Sensitivity | >1.0 | Can make aim-down-sight difficult (0.5 - 1.0) |
+| ADS Sensitivity | <1.0 | Can make aim-down-sight difficult (0.5 - 1.0) |
 | Depth of Field | OFF | Similar to Motion Blur |
 | Wind Impulse | OFF | Grass |
 | Autolook Centering | OFF | Controller Only |

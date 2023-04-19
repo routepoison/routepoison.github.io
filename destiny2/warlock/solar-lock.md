@@ -7,7 +7,7 @@
 * [Stassis](./stassis-lock.md)
 * [Strand](./strand-lock.md)
 
-![lock](./solar-lock.png)
+![solar-lock](./solar-lock.png)
 
 ## Solar Ignition Build
 

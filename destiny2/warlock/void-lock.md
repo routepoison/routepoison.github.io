@@ -7,7 +7,9 @@
 * [Stassis](./stassis-lock.md)
 * [Strand](./strand-lock.md)
 
-##
+![solar-lock](./solar-lock.png)
+
+
 
 ---
 

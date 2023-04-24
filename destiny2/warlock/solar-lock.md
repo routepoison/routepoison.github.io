@@ -4,7 +4,7 @@
 
 * [Void](./void-lock.md)
 * [Arc](./arc-lock.md)
-* [Stassis](./stassis-lock.md)
+* [Stassis](./stasis-lock.md)
 * [Strand](./strand-lock.md)
 
 ![solar-lock](./solar-lock.png)

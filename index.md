@@ -21,8 +21,10 @@ I've been streaming and developing a calendar to bring more content to my subscr
 #### Season 20
 
 * 🔧 [Settings](./destiny2/d2-settings.md)
-* 🔧 [Warlock Builds](./destiny2/warlock/solar-lock.md)
 
+#### 🛠 Class Builds
+
+* 🔧 [Warlock Builds](./destiny2/warlock/solar-lock.md)
 
 #### 🛠 Other Resources
 

@@ -12,7 +12,7 @@ This is my personal blog that I occasionally update with journal entries and som
 
 ## Twitch
 
-I've been streaming and developing a calendar to bring more content to my subscribers! Looks at for up and coming changes around here.
+I've been streaming and developing a calendar to bring more content to my subscribers! Come back to visit for up and coming changes around here!
 
 * 👾 [Check out my twitch stream! https://twitch.tv/1000yardstare](https://twitch.tv/1000yardstare)
 

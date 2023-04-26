@@ -1,5 +1,5 @@
 title-heading: false
-theme: jekyll-theme-minimal
+remote_theme: dieghernan/chulapa
 
 plugins:
   - jekyll-seo-tag

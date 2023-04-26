@@ -1,4 +1,16 @@
-name: ""
-title: null
+#
+# name: ""
+title: RP LLC
+# title-heading: false
 theme: jekyll-theme-slate
-title-heading: false
+plugins:
+  - jekyll-seo-tag
+# Remove header and footer
+defaults:
+  -
+    scope:
+      path: "" # empty for all files
+    values:
+      layout: "default"
+      remove_header: true
+      remove_footer: true

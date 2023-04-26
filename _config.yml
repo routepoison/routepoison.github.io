@@ -1,13 +1,11 @@
 #
 # name: ""
-title: routepoison.com
+# title: routepoison.com
 # title-heading: false
 # description: RP LLC
-baseurl: "/routepoison.github.io" # The subpath of your site, e.g. /blog/
+# baseurl: "/routepoison.github.io" # The subpath of your site, e.g. /blog/
 
-
-
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag
 # Remove header and footer

@@ -1,7 +1,7 @@
 #
 # name: ""
 # title: RP LLC
-# title-heading: false
+title-heading: false
 description: RP LLC
 baseurl: "/routepoison.github.io" # The subpath of your site, e.g. /blog/
 

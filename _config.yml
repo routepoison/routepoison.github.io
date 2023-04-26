@@ -1,7 +1,12 @@
 #
 # name: ""
-title: RP LLC
+# title: RP LLC
 # title-heading: false
+description: RP LLC
+baseurl: "/routepoison.github.io" # The subpath of your site, e.g. /blog/
+
+
+
 theme: jekyll-theme-slate
 plugins:
   - jekyll-seo-tag

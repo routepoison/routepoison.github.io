@@ -1,5 +1,6 @@
 title-heading: false
 theme: jekyll-theme-slate
+
 plugins:
   - jekyll-seo-tag
 # Remove header and footer

@@ -24,26 +24,6 @@ For this reason, we must understand how Active Directory is set up and the basic
 
 AD is arranged in a hierarchical tree structure, with a forest at the top containing one or more domains, which can themselves have nested subdomains.
 
-Here are additional definitions that you should be familiar with when dealing with AD:
-
-### Object
-
-
-### Attributes
-
-### Schema
-
-### Domain
-
-### Forest
-
-### Tree
-
-### Container
-
-### Leaf
-
-### Global Unique Identifier (GUID)
 
 
 ---

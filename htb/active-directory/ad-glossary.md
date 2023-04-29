@@ -57,11 +57,21 @@ A security identifier, or SID is used as a unique identifier for a security prin
 
 ### Distinguished Name (DN)
 
+A Distinguished Name (DN) describes the full path to an object in AD (such as __cn=bjones, ou=IT, ou=Employees, dc=inlanefreight, dc=local__).
+
+In this example, the user __bjones__ works in the IT department of the company Inlanefreight, and his account is created in an Organizational Unit (OU) that holds accounts for company employees. The Common Name (CN) __bjones__ is just one way the user object could be searched or accessed within the domain.
+
 ### Relative Distinguished Name (RDN)
+
+A __Relative Distinguished Name (RDN)__ is a single component of the Distinguished Name that identifies the object as unique from other objects at the current level in the naming hierarchy. In our example, __bjones__ is the Relative Distinguished Name of the object. AD does not allow two objects with the same name under the same parent container, but there can be two objects with the same RDNs that are still unique in the domain because they have different DNs. For example, the object __cn=bjones, dc=dev, dc=inlanefreight, dc=local__ would be recognized as different from __cn=bjones, dc=inlanefreight, dc=local.__
 
 ### sAMAccountName
 
+The __sAMAccountName__ is the user's logon name. Here it would just be __bjones__. It must be a unique value and 20 or fewer characters.
+
 ### userPrincipleName
+
+The __userPrincipleName__ attribute is another way to identify users in AD. This attribute consists of a prefix (the user account name) and a suffix (the domain name) in the format __bjones@inlanefreight.local__. This attribute is not mandatory.
 
 ### FSMO Roles
 

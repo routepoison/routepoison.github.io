@@ -75,6 +75,10 @@ The __userPrincipleName__ attribute is another way to identify users in AD. This
 
 ### FSMO Roles
 
+In the early days of AD, if you had multiple DCs in an environment, they would fight over which DC gets to make changes, and sometimes changes would not be made properly. Microsoft then implemented "last writer wins," which could introduce its own problems if the last change breaks things. They then introduced a model in which a single "master" DC could apply changes to the domain while the others merely fulfilled authentication requests. 
+
+This was a flawed design because if the master DC went down, no changes could be made to the environment until it was restored. To resolve this single point of failure model, Microsoft separated the various responsibilites that a DC can have into __Flexible Single Master Operation (FSMO)__ roles.
+
 ### Global Catalog
 
 ### Read-Only Domain Controller

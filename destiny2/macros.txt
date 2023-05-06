@@ -1,0 +1,160 @@
+Eager Edge Skating Macro Guide (For All Classes)
+High School
+January 17, 2022News Bot
+a lot of you guys were asking about macros last vid so i thought i’d make a quick guide for all classes that anyone can understand, hope this helps gamers
+
+macrogamer download tutorial:
+
+macro list (90 fps+):
+
+1) all classes (basic skate)
+-3 Hold/Release (heavy swap)
+-0.35 delay*
+-Left Mouse Hold/Release (light attack)
+-1 Hold/Release (kinetic swap)
+
+2) all classes (basic skate w/ jump and sprint)
+-0.25 delay
+-space hold (jump)
+-0.20 delay*
+-space release (jump)
+-shift hold (sprint)
+-0.10 delay
+-shift release (sprint)
+
+3) warlock (icarus skate)
+-3 hold/release (heavy swap)
+-0.35 delay*
+-left mouse hold/release (light attack)
+-0.10 delay
+-1 hold/release (kinetic swap)
+-0.20 delay
+-space hold (burst glide)
+-0.20 delay*
+-space release (burst glide)
+-k hold/release (icarus dash)
+-shift hold (sprint)
+-0.15 delay
+-shift release (sprint)
+
+4) warlock (well skate)
+-3 hold/release (heavy swap)
+-0.40 delay*
+-b hold (heavy attack)
+-0.05 delay*
+-b release (heavy attack)
+-space hold/release (jump)
+-x hold/release (super)
+
+5) hunter (shatterdive skate)
+-3 hold/release (heavy swap)
+-0.35 delay*
+-b hold (heavy attack)
+-0.15 delay
+-b release (heavy attack)
+-k hold (shatterdive)
+-space hold (jump)
+-0.05 delay
+-k release (shatterdive)
+-space release (jump)
+-1 hold/release
+
+macro list (30 fps+):
+
+1) all classes (basic skate)
+-3 hold/release (heavy swap)
+-0.45 delay*
+-left mouse hold/release (light attack)
+-1 hold/release (kinetic swap)
+
+2) all classes (basic skate w/ jump and sprint)
+-0.25 delay
+-space hold (jump)
+-0.25 delay*
+-space release (jump)
+-shift hold (sprint)
+-0.10 delay
+-shift release (sprint)
+
+3) warlock (icarus skate)
+-3 hold/release (heavy swap)
+-0.50 delay*
+-left mouse hold/release (light attack)
+-0.10 delay
+-1 hold/release (kinetic swap)
+-0.20 delay
+-space hold (burst glide)
+-0.27 delay*
+-space release (burst glide)
+-k hold/release (icarus dash)
+-shift hold (sprint)
+-0.15 delay
+-shift release (sprint)
+
+4) warlock (well skate)
+-3 hold/release (heavy swap)
+-0.55 delay*
+-b hold (heavy attack)
+-0.10 delay*
+-b release (heavy attack)
+-space hold/release (jump)
+-x hold/release (super)
+
+5) hunter (shatterdive skate)
+-3 hold/release (heavy swap)
+-0.42 delay*
+-b hold (heavy attack)
+-0.15 delay
+-b release (heavy attack)
+-k hold (shatterdive)
+-space hold (jump)
+-0.05 delay
+-k release (shatterdive)
+-space release (jump)
+-1 hold/release
+
+—————————————————————————————-
+
+0:00 important disclaimers
+0:23 macro software options
+0:44 how to use macrogamer properly
+1:22 basic eager edge skate macro (for all classes)
+2:16 warlock specific (2 macros)
+3:13 hunter specific (1 macro)
+3:44 rip titans
+
+for the algorithm gods:
+eager edge skate macro guide / eager edge skating guide / eager edge skating macro / eager edge / eager edge sword skating / eager edge macro / eager edge sword skate macro / eager edge hunter macro / eager edge warlock macro / eager edge macro all classes / eager edge skate macro / well warlock skating / eager edge shatterdive skate / eager edge sword skating guide / eager edge hunter skating / eager edge titan skating / how to eager edge skate destiny 2 / how to eager edge skate / eager edge skate hunter / hunter eager edge skate / how to eager edge skate hunter / eager edge skate warlock / eager edge skate titan / half truths skate / the other half skate / eager edge sword skating guide (for all classes) / sword skating on all classes / eager edge skating on all classes
+
+
+💝 SUPPORT A NEW STREAMER! FOLLOW! 💝
+
+https://emojify.net/
+
+LIVE
+❌BIG ❌DAY ❌ PULL❌ UP❌ LETS❌ GO❌ CLICK❌ NOW❌DRAMA❌NEWS❌VIDEOS❌GAMEPLAY❌Destiny 2❌WORLD RECORD❌BREAKING❌TODAY❌JUICER❌WARLORD
+
+
+BINGIE ❌LIKES ❌ ANTEATERS ❌ WORLD RECORD❌BREAKING❌TODAY❌JUICER❌WARLORD❌
+
+join my discord 👾 for a cool 😎 community!!!1 https://discord.gg/eWBHZa4Q
+
+LOST ARK INSTEAD OF D2 (4now) ❌ BUNGIE ❌LIKES ❌ ANTEATERS ❌ WORLD RECORD❌BREAKING❌TODAY❌JUICER❌WARLORD❌
+
+
+LOST SECTOR MASTER ❌ THEN IDK ❌ BUNGIE ❌LIKES ❌ ANTEATERS ❌ WORLD RECORD❌BREAKING❌TODAY❌JUICER❌WARLORD❌LETS❌
+
+LOST ARK ❌ DESTINY 2 ❌  BUNGIE ❌ LIKES ❌ ANTEATERS ❌ WORLD RECORD❌BREAKING❌TODAY❌JUICER❌WARLORD❌
+
+ 
+
+🔥 THX FOR DROPPING BY 🔥 CHECK OUT MY DISC https://discord.gg/eWBHZa4Q 🔥
+
+💝✨ SUPPORT A NEW STREAMER! ✨💝 SLAP THAT FOLLOW BUTTON 💝✨
+
+
+⭐ Starting SOLO Spire 🗼 for RANK 11 Destiny 2 ⭐
+
+⭐ Starting SOLO Spire 🗼 for RANK 11 Destiny 2 ⭐
+♠️ :spades:	♥️ :hearts:	♣️ :clubs:
+♦️ :diamonds:

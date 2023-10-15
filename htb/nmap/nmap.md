@@ -121,7 +121,7 @@ We will take a closer look at at and analyze some of the scanning methods. After
 There are a total of 6 different states for a scanned port we can obtain:
 
 open:
- this indicates that the connection to the scanned port has been established. These connections can be TCP connections, UDP datagrams as well as SCTP associations |
+ this indicates that the connection to the scanned port has been established. These connections can be TCP connections, UDP datagrams as well as SCTP associations 
  
 closed:
  when the port is shown as closed, the TCP protocol indicates that the packet we recieved contains an RST flag. This scanning method can also be used for the port or we get an error code from the target.
@@ -133,6 +133,12 @@ unfiltered:
  this state of a port only occurs during the TCP-ACK scan and means that the port is accessible, but it cannot be determined whether it is open or closed.
 
 open|filtered:
+ if we do not get a response for a specific port, Nmap will set it to that state. This indicates that a firewall or packet filter may protect the port.
+
+closed|filtered:
+ this state only occurs in the IP ID idle scans and indicates that it was impossible to determine if the scanned port is closed or filtered by a firewall.
+
+ 
 
 ## Enumeration
 

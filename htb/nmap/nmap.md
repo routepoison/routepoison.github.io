@@ -120,13 +120,19 @@ We will take a closer look at at and analyze some of the scanning methods. After
 
 There are a total of 6 different states for a scanned port we can obtain:
 
-| state | description | 
-|:-:|:-:|
-| open | this indicates that the connection to the scanned port has been established. These connections can be TCP connections, UDP datagrams as well as SCTP associations |
-| closed | when the port is shown as closed, the TCP protocol indicates that the packet we recieved contains an RST flag. This scanning method can also be used for the port or we get an error code from the target. |
-| filtered | Nmap cannot correctly identify whether the scanned port is open or closed because either no response is returned from the target for the port or we get an error code from the target. | 
-| unfiltered | this state of a port only occurs during the TCP-ACK scan and means that the port is accessible, but it cannot be determined whether it is open or closed. |
-| "open|filtered" | 
+open:
+ this indicates that the connection to the scanned port has been established. These connections can be TCP connections, UDP datagrams as well as SCTP associations |
+ 
+closed:
+ when the port is shown as closed, the TCP protocol indicates that the packet we recieved contains an RST flag. This scanning method can also be used for the port or we get an error code from the target.
+ 
+filtered:
+ Nmap cannot correctly identify whether the scanned port is open or closed because either no response is returned from the target for the port or we get an error code from the target.
+ 
+unfiltered:
+ this state of a port only occurs during the TCP-ACK scan and means that the port is accessible, but it cannot be determined whether it is open or closed.
+
+open|filtered:
 
 ## Enumeration
 

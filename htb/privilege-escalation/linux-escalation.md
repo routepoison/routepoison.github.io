@@ -26,7 +26,7 @@ Knowing what services are running on the host is important, especially those run
 
 #### List Current Processes
 
-> ps aux | grep root
+`ps aux | grep root`
 
 Let's get down to business.
 
@@ -36,30 +36,30 @@ Screen version 4.05.00 suffers from a privilege escalation vulnerability that ca
 
 **Logged in Users**: Knowing which other uses are logged into the system and what they are doing can give greater insight into possible local lateral movement and privilege escalation paths
 
-> ps au
+`ps au`
 
 **User Home Directories**: Are other user's home directories accessible? User home folders may also contain SSH keys that can be used to access other systems or scripts and configuration files containing credentials. It is not uncommon to find files containing credentials that can be leveraged to access other systems or even gain entry into the Active Directory environment.
 
 
 ## Home Directory Contents
 
-> ls /home
+`ls /home`
 
 We can check individual user directories and check to see if files such as the **.bash_history** file are readable and contain any interesting commands, look for configuration files, and check to see if we can obtain copies of a user's SSH keys.
 
 ### SSH Directory
 
-> ls -l ~/.ssh
+`ls -l ~/.ssh`
 
 ## Bash History
 
-> history
+`history`
 
 **Sudo Privileges**: Can the user run any commands either as another user or as root? If you do not have credentials for the user, it may not be possible to leverage sudo permissions. However, often sudoer entries include **NOPASSWD**, meaning that the user can run the specified command without being prompted for a password. Not all commands, even we can run as root, will lead to privilege escalation. It is not uncommon to gain access as a user with full sudo privileges, meaning they can run any command as root. Issuing a simple **sudo su** command will immediately give you a root session.
 
 ## Sudo - List User's Privilege
 
-> sudo -l
+`sudo -l`
 
 
 **Configuration files**: Configuration files can hold a wealth of information. It is worth searching through all files that end extensions such as **.conf** and **.config** for usernames, passwords, and other secrets.
@@ -70,17 +70,17 @@ We can check individual user directories and check to see if files such as the *
 
 ## Passwd
 
-> cat /etc/passwd
+cat /etc/passwd
 
 **Cron Jobs**: Cron jobs on Linux systems are similar to Widnows scheduled tasks. They are often set up to perform maintenance and backup tasks. In conjunction with other such as relative paths or weak permissions, they can leverage to escalate privileges when the scheduled cron job runs.
 
-> ls -la /etc/cron.daily/
+`ls -la /etc/cron.daily/`
 
 **Unmounted File Systems and Additional Drives**: If you discover and can mount an additional drive or unmounted file system, you may find sensitive files, passwords, or backups that can be leveraged to escalate privileges.
 
 ## File Systems & Additional Drives
 
-> lsblk
+`lsblk`
 
 **SETUID and SETGID Permissions**: Binaries are set with these permissions to allow a user to run a command as root, without having to grant root-level access to the user. Many binaries contain functionality that can be exploited, to get a root shell.
 
@@ -88,13 +88,13 @@ We can check individual user directories and check to see if files such as the *
 
 ## Find Wiretable Directories
 
-> find / -path /proc -prune -o -type d -perm -o+w 2>/dev/null
+`find / -path /proc -prune -o -type d -perm -o+w 2>/dev/null`
 
 **Writeable Files**: Are any scripts or configuration files world-writeable? While altering configuration files can be extremely destructive, there may be instances where a minor modifications can open up further access. Also, any scripts that are run as root using cron jobs can be modified slightly  to append a command.
 
 ## Find Writeable Files
 
-> find / -path /proc -prune -o -type f -perm -o+w 2>/dev/null
+`find / -path /proc -prune -o -type f -perm -o+w 2>/dev/null`
 
 ## Cheatsheet
 

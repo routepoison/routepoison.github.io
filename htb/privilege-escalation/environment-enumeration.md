@@ -92,7 +92,81 @@ All users on the system are stored in the **/etc/passwd** file. The format goes 
 
 Occasionally, we'll see password hashes directly in the **/etc/passwd** file. This file is readable by all users, and as with hashes in the **/etc/shadow** file, these can be subjected to an offline password cracking attack. This configuration, while not common, can sometimes be seen on embedded devices and routers.
 
+`cat /etc/passwd | cut -f1 -d:`
 
+With Linux, several different hash algorithms can be used to make the passwords unrecognizable. Identifying them from the first hash blocks can help us to use and work with them later if needed. Here is a list of the most used ones:
+
+| **Algorithm** | **Hash** |
+| --------------|-------------------|
+| Salted MD5 | `$1$`... |
+| SHA-256| `$5$`... |
+| SHA-512 | `$6$`... |
+| BCrypt | `$2a$`... |
+| Scrypt | `$7$`... |
+| Argon2 | `$argon2i$`... |
+
+We'll also want to check which users have login shells. Once we see what shells are on the system, we can check each version for vulnerabilities. Because outdated versions, such as Bash v4.1, are vulnerable to **shellshock** exploit.
+
+`grep "*sh$" /etc/passwd`
+
+Each user in Linux systems is assigned to a specific group or groups and thus receives special privileges. For example, if we have a folder named **dev** only for developers, a user must be assigned to the appropriate group to access that folder. The information about the available groups can be found in the **/etc/group** file, which shows us both the group name and the assigned usser names.
+
+## Existing Groups
+
+`cat /etc/group`
+
+The **cat /etc/group** file lists all of the groups on the system. We can then use the [getent](https://man7.org/linux/man-pages/man1/getent.1.html) command to list member of any interesting groups.
+
+`getent group sudo`
+
+We can also check out which users have a folder under the **/home** directory. We'll want to enumerate each of these to see if any of the system users are storing any sensitive data, files containing passwords. We should check to see if files such as the **.bash_history** file are readable and contain any interesting commands and look for configuration files. It is not uncommon to find files containing credentials that can be leverage to access other systems or even gain entry into the Active Domain environment. Its also important to check for SSH keys for all users, as these could be used to achieve persistence on the system, potentially to escalate privleges, or to assist with pivoting and port forwarding further into the internal network. At the minimum, check the ARP cache to see what other hosts are being accessed and cross-reference these against any useable SSH private keys.
+
+
+`ls /home`
+
+Finally, we can search for any "low hanging fruit" such as config files, and other files that may contain sensitive information. Configuration files can hold a wealth of information. it is worth searching through all files that end in extensions such as .conf and .config, for usernames passwords, and other secrets.
+
+If we've gathered any passwords we should try them at this time for all users present on the system. Password re-use is common.
+
+In Linux, there are many different places where such files can be stored, including mounted file systems. A mounted file system is a file system that is attached to a particular directory on the system and accessed through that directory. many file systems, such as ext4, NTFS, and FAT32, can be mounted. Each type of file system has its own benefits and drawbacks. 
+
+For example, some file systems can only be read by the operating system, which other can be read and written by the user. File systems that can be read and written by the user are called read/write file systems. mounting a file system allows the user to access the files and folders stored on that file system. In order to mount a file system, a user must have root privileges, Once a file system is mounted, it can be unmounted by the user with root privileges. We may have access to such file systems and find info, docs, or applications.
+
+`df -h`
+
+## Mounted File Systems
+
+When a file system is unmounted, it is no longer accessible by the system. This can be done for various reasons, such as when a disk is removed, or a file system is no longer needed. Another reason may be that files, scripts, documents, and other important information must not be mounted and viewed by a standard user. Therefore, if we can extend our privleges to the **root** user, we could mount and read these file systems ourselves. Unmoutned file systems can be viewed as follows:
+
+## Unmounted File Systems
+
+`cat /etc/fstab | grep -v "#" | column -t`
+
+Many folders and files are kept hidden on a Linux system so they are not obvious, and accidental editing is prevented. Why such file ands folders are kept hidden, there are many more reasons than those mentioned so far. Nevertheless, we need to be able to locate all hidden files and folders because they often contain senstive information, even if we have read-only permission.
+
+## All Hidden Files
+
+`find / -type f -name ".*" -exec ls -l {} \; 2>/dev/null | grep username`
+
+## All Hidden Directory
+
+`find / -type d -name ".*" -ls 2>/dev/null`
+
+In addition, three default folders are intended for temporary files. These folders are visible to all users and can be read. In addition, temporary logs or script output can be found there.
+
+Both **/tmp** and **/var/tmp** are used to store data temporarily. However, the key difference is how long the data is stored in these file systems. The data rention time for **/var/tmp** is much longer than that of **/tmp** directory. By default, all files and data stored in **/var/tmp** are trained for up to 30 days. In **/tmp**, on the other hand, the data is automatically deleted after ten days.
+
+In addition, all the temporary files stored in the **/tmp** directory are deleted immediately when the system is restarted. Therefore, the **/var/tmp** directory is used by programs to store data that must be kept between reboots temporarily.
+
+## Temporary Files
+
+`ls -l /tmp /var/tmp /dev/shm`
+
+## Moving On
+
+We've gotten an initial lay of the land and some sensitive or useful data points that can help us on our way to escalating privileges or even moving laterally in the internal network. Next we'll look at permissions, and check to see what directories, scripts, binaries, etc we can read and write with our current user privileges.
+
+Though we are focusing on manual enumeration in this module, its worth running the [linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) script at this point in a real-world test.
 
 ---
 

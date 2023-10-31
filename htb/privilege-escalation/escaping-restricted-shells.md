@@ -22,15 +22,30 @@ Imagine a company with a network of Linux servers hosting critical businesss app
 
 To do this, IT staff set up several **rbash**,**rksh**, and **zsh** shells on the network and assigns each user to a specific shell. For example, external partnets who need to access only certain network features, such as e-mail and file sharing, are assigned **rbash** shells, which limits their ability to execute specific commands and access certain directories. Contractors who need to access more advanced network features, such as database servers and web servers, are assigned to **rksh**  shells, which provide them with more flexibilty but still limit their abilities.
 
-
-
 ## Escaping
 
 ##  Command Injection
 
 Imagine that we are in a restricted shell that allows us to execute commands by passing them as arguments to the `ls` command. Unfortunately, the shell only allows us to execute the **ls** command with a specific set of arguments, such as `ls -l` or `ls -a`, but it does not allow us to execute any other commands. In this situation, we can use command injection to escape from the shell injecting additional commands into the argument of the **ls** command.
 
+For example, we could use the following command to inject a `pwd` into the argument of the **ls** command:
 
+`ls -l `pwd``
+
+This command would cause the **ls** command to be executed with the argument `-l`, followed by the output of the `pwd` command. Since the `pwd` command is not restricted by the shell, this would allow us to execute the `pwd` command and see the current working directory, even though the shell does not allow us to execute the `pwd` command directly.
+
+## Command Substitution
+
+Another method for escaping from a restricted shell is to us command substitution. This involves using the shell's command substitution syntax to execute a command. For example, imagine the shell allows users to execute commands by enclosing them in backticks (`). In that case, it may be possible to escape from the shell by executing a command in a backtick substitution that is not restricted by the shell.
+
+## Environment Variables
+
+For escaping from a restricted shell to use environment variables involves modifying or creating environment variables that the shell uses to execute command that are not restricted by the shell. For example, if the shell uses an environment variable to specify the directory in which commands are executed, it may be possible to escapte from the shell by modifying the value of the environment variable to specify a different directory.
+
+
+## Shell Functions
+
+In some cases, it may be possible to escape a restricted shell by using shell functions. For this we can define and call shell functions that execute commands not restricted by the shell. Let us say, the shell allows users to define and call shell functions, it may be possible to escapte from the shell by defining a shell function that executes a command.
 
 ---
 

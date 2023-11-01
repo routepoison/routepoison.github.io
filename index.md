@@ -12,7 +12,7 @@ This is my personal blog that I occasionally update with journal entries and som
 ### Hacking
 
 * [Privilege Escalation](./htb/privilege-escalation/linux-escalation.md)
-* [Credential Hunting](./htb/privilege-escalation/credential-hunting.md.md)
+* [Credential Hunting](./htb/privilege-escalation/credential-hunting.md)
 * [Environment Enumeration](./htb/privilege-escalation/environment-enumeration.md)
 * [Escaping Restricted Shells](./htb/privilege-escalation/escaping-restricted-shells.md)
 * [Linux Services - Internal Enumeration](./htb/privilege-escalation/linux-services_-_internals-enumeration.md)

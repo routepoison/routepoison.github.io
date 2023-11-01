@@ -39,8 +39,7 @@ NIX02
 [AppArmor](https://wiki.ubuntu.com/AppArmor) in mor recent distributions has predefined the commands, used with the **postrotate-command**, effectively preventing command execution. Two best practices that should always be considered when provisioning **sudo** rights:
 
 1. Always specify the absolute path to any binaries listed in the **sudoers** file entry. Otherwise, an attacker may be able to leverage PATH abuse (which we will see in the next session) to create a malicious binary that will be executed when the command runs (i.e., if the sudoers entry specifies **cat** instead of **/bin/cat** this could likely be abused).
-
-2.
+2. Grant **sudo** rights sparingly and based on the principle of least privilege. Does the user need full **sudo** rights? Can they still perform their job with one or two entries in the **sudoers** file? Limiting the privileged command that user can run will greatly reduce the likelihood of successful privilege escalation.
 
 ---
 

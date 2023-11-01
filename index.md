@@ -30,7 +30,9 @@ I've been streaming and developing a calendar to bring more content to my subscr
 * 🐦 [https://twitter.com/blueberriesGG](https://twitter.com/blueberriesGG)
 * 🌀 [Today is Destiny - Lost Sector Calendar](https://www.todayindestiny.com/ls_calendar)
 
-### 🎮 Lost Ark
+### Hacking
+
+* [Privilege Escalation](./htb/privilege-escalation/linux-escalation.md)
 
 ---
 

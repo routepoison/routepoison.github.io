@@ -9,6 +9,20 @@ This is my personal blog that I occasionally update with journal entries and som
 
 ## 🗄  Directory
 
+### Hacking
+
+* [Privilege Escalation](./htb/privilege-escalation/linux-escalation.md)
+* [Credential Hunting](./htb/privilege-escalation/linux-escalation.md)
+* [Environment Enumeration](./htb/privilege-escalation/linux-escalation.md)
+* [Escaping Restricted Shells](./htb/privilege-escalation/linux-escalation.md)
+* [Linux Services - Internal Enumeration](./htb/privilege-escalation/linux-escalation.md)
+* [Path Abuse](./htb/privilege-escalation/linux-escalation.md)
+* [Permission Based Privileges](./htb/privilege-escalation/linux-escalation.md)
+* [Privileged Groups](./htb/privilege-escalation/linux-escalation.md)
+* [Special Permissions](./htb/privilege-escalation/linux-escalation.md)
+* [Sudo Rights Abuse](./htb/privilege-escalation/linux-escalation.md)
+* [Wildcard Abuse](./htb/privilege-escalation/linux-escalation.md)
+
 ## Twitch
 
 I've been streaming and developing a calendar to bring more content to my subscribers! Come back to visit for up and coming changes around here!
@@ -30,9 +44,6 @@ I've been streaming and developing a calendar to bring more content to my subscr
 * 🐦 [https://twitter.com/blueberriesGG](https://twitter.com/blueberriesGG)
 * 🌀 [Today is Destiny - Lost Sector Calendar](https://www.todayindestiny.com/ls_calendar)
 
-### Hacking
-
-* [Privilege Escalation](./htb/privilege-escalation/linux-escalation.md)
 
 ---
 

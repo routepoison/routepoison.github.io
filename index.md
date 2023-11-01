@@ -12,16 +12,16 @@ This is my personal blog that I occasionally update with journal entries and som
 ### Hacking
 
 * [Privilege Escalation](./htb/privilege-escalation/linux-escalation.md)
-* [Credential Hunting](./htb/privilege-escalation/linux-escalation.md)
-* [Environment Enumeration](./htb/privilege-escalation/linux-escalation.md)
-* [Escaping Restricted Shells](./htb/privilege-escalation/linux-escalation.md)
-* [Linux Services - Internal Enumeration](./htb/privilege-escalation/linux-escalation.md)
-* [Path Abuse](./htb/privilege-escalation/linux-escalation.md)
-* [Permission Based Privileges](./htb/privilege-escalation/linux-escalation.md)
-* [Privileged Groups](./htb/privilege-escalation/linux-escalation.md)
-* [Special Permissions](./htb/privilege-escalation/linux-escalation.md)
-* [Sudo Rights Abuse](./htb/privilege-escalation/linux-escalation.md)
-* [Wildcard Abuse](./htb/privilege-escalation/linux-escalation.md)
+* [Credential Hunting](./htb/privilege-escalation/credential-hunting.md.md)
+* [Environment Enumeration](./htb/privilege-escalation/environment-enumeration.md)
+* [Escaping Restricted Shells](./htb/privilege-escalation/escaping-restricted-shells.md)
+* [Linux Services - Internal Enumeration](./htb/privilege-escalation/linux-services_-_internals-enumeration.md)
+* [Path Abuse](./htb/privilege-escalation/path-abuse.md)
+* [Permission Based Privileges](./htb/privilege-escalation/permission-based-privilege.md)
+* [Privileged Groups](./htb/privilege-escalation/privileged-groups.md)
+* [Special Permissions](./htb/privilege-escalation/special-permissions.md)
+* [Sudo Rights Abuse](./htb/privilege-escalation/sudo-rights-abuse.md)
+* [Wildcard Abuse](./htb/privilege-escalation/wildcard-abuse.md)
 
 ## Twitch
 
